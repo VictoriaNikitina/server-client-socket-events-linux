@@ -1,6 +1,6 @@
-# Модуль визуализации данных радиационногоконтрля в реальном времени
+# Модуль визуализации данных радиационного контроля в реальном времени
 ## Запуск
-npm install
+npm install  
 node app.js
 ## Изображения
 ![c282Cr9ApoaJW1hvxSUx_SBL8wLk173btoafJngoEhQqCmVdOrMMhsvbz5vRC3qpuQqxVeFgSJx4CKt_FRcDxHcj](https://user-images.githubusercontent.com/71491518/172656214-d38735c2-bce3-4216-8d4c-ee7c4d0d27dc.jpg)
