@@ -1,0 +1,99 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #DCDCDC;
+}
+.row {
+    display: grid;
+    grid-template-columns: 49% 49%;
+    width: 100%;
+    height: 18%;
+}
+
+.mnemo {
+    height: 80%;
+    width: 100%;
+}
+.status {
+    height: 2%;
+    width: 100%;
+    background-color: #DCDCDC;
+}
+  
+.column {
+    width: 100%;
+}
+
+table {
+    width: 100%;
+}
+
+svg {
+    width: 100%;
+    height: 100%;
+}
+
+.name_table {
+    background-color:lightblue;
+}
+
+.column_table {
+    background-color: silver;
+}
+
+p {
+    margin: 0%;
+    margin-left: 5%;
+    background-color: #DCDCDC;
+    
+}
+
+.scroll {
+    border: 0;
+    border-collapse: collapse;
+  }
+  
+  .scroll tr {
+    display: flex;
+  }
+  
+  .scroll td {
+  
+    width: 1px;
+    word-wrap: break-word;
+  }
+  .scroll thead {
+      border: 1px;
+  }
+  .scroll thead tr:after {
+    content: '';
+    overflow-y: scroll;
+    visibility: hidden;
+    height: 0;
+  }
+  
+  .scroll thead th {
+    flex: 1 auto;
+    display: block;
+  }
+  
+  .scroll tbody {
+    display: block;
+    width: 100%;
+    overflow-y: auto;
+    height: 100px;
+  }
+  #datetime 
+  {
+    width: 18%;
+  }
+  #msg_prjmark {
+      width: 16%;
+  }
+  #msg_text {
+      width: 66%;
+  }
+
+
+  
+  

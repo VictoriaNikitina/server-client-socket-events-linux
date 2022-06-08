@@ -1,0 +1,2158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1910"
+   height="811"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r"
+   sodipodi:docname="20CFL30EJ126.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="166.08485"
+     inkscape:cy="742.31571"
+     inkscape:document-units="px"
+     inkscape:current-layer="active_layer"
+     showgrid="true"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:window-width="3840"
+     inkscape:window-height="1012"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       id="grid2986"
+       type="xygrid"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       id="guide34411"
+       position="-393.15137,300"
+       orientation="1,0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:identifier>20CFL30EJ126</dc:identifier>
+        <dc:title>Периодический радиационный контроль помещений здания реактора (гермообъем). Отметка 20UJA26</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:date>11.04.2018</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>ФГУП &quot;ПСЗ&quot;</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     id="static_layer"
+     inkscape:groupmode="layer"
+     inkscape:label="Слой подложки">
+    <g
+       id="g3790"
+       transform="translate(0,-0.03543307)">
+      <path
+         id="path3792"
+         d="M 0,0.03543307 0,811.02753 l 1909.9842,0 0,-810.99209693 z"
+         style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g26115" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text34763"
+       y="18"
+       x="55"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="18"
+         x="55"
+         id="tspan34765"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5657"
+       y="31"
+       x="186.38281"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="31"
+         x="186.38281"
+         id="tspan5659"
+         sodipodi:role="line">Периодический радиационный контроль помещений здания реактора (гермообъем). Отметка 20UJA26</tspan></text>
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5320-2"
+       width="320"
+       height="46"
+       x="835.76941"
+       y="764.61652" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;color:#000000;fill:#bfbfbf;fill-opacity:1;stroke:#000000;stroke-width:1.7762121;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3172-5-8"
+       sodipodi:cx="995"
+       sodipodi:cy="1351"
+       sodipodi:rx="355"
+       sodipodi:ry="280"
+       d="m 993.89064,1630.9986 a 355,280 0 0 1 0.50729,-559.9982 L 995,1351 z"
+       transform="matrix(1,0,0,1.2678571,84.573011,-1289.9725)"
+       sodipodi:start="1.5739213"
+       sodipodi:end="4.710693" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.8822546;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3172-6"
+       sodipodi:cx="995"
+       sodipodi:cy="1351"
+       sodipodi:rx="355"
+       sodipodi:ry="280"
+       d="M 993.82841,1630.9985 A 355,280 0 0 1 995.00001,1071 L 995,1351 z"
+       transform="matrix(0.94366197,0,0,1.1964286,140.62935,-1193.4725)"
+       sodipodi:start="1.5740966"
+       sodipodi:end="4.712389" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="1070.7694"
+       y="51.616489"
+       id="text7477-5-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7479-1-0"
+         x="1070.7694"
+         y="51.616489">90<tspan
+   style="font-size:11px;baseline-shift:super"
+   id="tspan7481-7-3">o</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="679.573"
+       y="426.90244"
+       id="text7477-1-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7479-3-9"
+         x="679.573"
+         y="426.90244">180<tspan
+   style="font-size:11px;baseline-shift:super"
+   id="tspan7481-2-2">o</tspan></tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:0.82992512;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4189-9"
+       sodipodi:cx="955"
+       sodipodi:cy="1303.5"
+       sodipodi:rx="45"
+       sodipodi:ry="37.499973"
+       d="m 921.97289,1278.0293 a 45,37.499973 0 1 1 -0.81237,50.1898"
+       transform="matrix(1.0888888,0,0,1.3333331,42.72803,-1314.342)"
+       sodipodi:start="3.8882906"
+       sodipodi:end="8.7050552"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:0.62249482;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4189-0-6"
+       sodipodi:cx="955"
+       sodipodi:cy="1303.5"
+       sodipodi:rx="45"
+       sodipodi:ry="37.499973"
+       d="m 925.10984,1275.4676 a 45,37.499973 0 1 1 -0.11943,55.9761"
+       transform="matrix(1.4347172,0,0,1.7987146,-287.04117,-1923.3576)"
+       sodipodi:start="3.9859313"
+       sodipodi:end="8.5839952"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:0.59580553;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4189-0-4-4"
+       sodipodi:cx="955"
+       sodipodi:cy="1303.5"
+       sodipodi:rx="45"
+       sodipodi:ry="37.499973"
+       d="m 915.58909,1285.3996 a 45,37.499973 0 0 1 80.98866,3.7562"
+       transform="matrix(1.7000349,0,0,1.6570404,-541.87937,-1760.2623)"
+       sodipodi:start="3.6453023"
+       sodipodi:end="5.8906704"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:0.59580553;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4189-0-4-8-9"
+       sodipodi:cx="955"
+       sodipodi:cy="1303.5"
+       sodipodi:rx="45"
+       sodipodi:ry="37.499973"
+       d="m 915.25306,1285.9173 a 45,37.499973 0 0 1 74.90661,-5.8219"
+       transform="matrix(1.7000349,0,0,-1.6570404,-541.87947,2607.51)"
+       sodipodi:start="3.6296078"
+       sodipodi:end="5.6091765"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:0.60825205;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4189-0-4-8-7-9"
+       sodipodi:cx="955"
+       sodipodi:cy="1303.5"
+       sodipodi:rx="45"
+       sodipodi:ry="37.499973"
+       d="m 920.48402,1279.4392 a 45,37.499973 0 0 1 66.8699,-2.003"
+       transform="matrix(1.631172,0,0,-1.6570404,-475.82937,2604.3641)"
+       sodipodi:start="3.8382024"
+       sodipodi:end="5.514717"
+       sodipodi:open="true" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.98999999;color:#000000;fill:none;stroke:#000000;stroke-width:0.60466659;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4189-0-4-83-0"
+       sodipodi:cx="955"
+       sodipodi:cy="1303.5"
+       sodipodi:rx="45"
+       sodipodi:ry="37.499973"
+       d="m 923.28157,1276.8993 a 45,37.499973 0 0 1 73.02304,11.7186"
+       transform="matrix(1.6505739,0,0,1.6570404,-494.59347,-1757.2623)"
+       sodipodi:start="3.9301716"
+       sodipodi:end="5.8750949"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 803.65403,234.69665 33,20 c 20.9507,21.4987 9.1479,49.0871 -17,53 l -4,8 c 13.0463,20.1061 9.003,36.8942 -10,49 -7.1536,0.9214 -14.1065,0.639 -21,0 l -33,-10"
+       id="path4339-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 857.65403,370.69665 0,106 152.99997,0 0,-107 -152.99997,0 z"
+       id="path4486"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 864.66216,461.69665 145.99194,0"
+       id="path4488"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1010.6532,384.69665 -145.68659,0"
+       id="path4490"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 864.65403,384.1954 0,77.50208"
+       id="path4492"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1006.654,461.69665 0,-77"
+       id="path3479"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1010.654,388.69665 -4,0"
+       id="path3481"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1010.654,456.69665 -4,0"
+       id="path3483"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1010.654,461.69665 19,0 0,15 -19,0"
+       id="path3485"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1026.654,461.69665 0,-5 20,0"
+       id="path3487"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1029.654,461.69665 0,-5"
+       id="path3489"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1010.654,384.69665 19,0 0,-15 -19,0"
+       id="path3485-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1026.654,384.69665 0,5 20,0"
+       id="path3487-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1029.654,384.69665 0,5"
+       id="path3489-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1029.654,358.69665 11,12"
+       id="path3532"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1045.654,365.69665 -10,-12"
+       id="path3534"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1053.654,360.69665 -7,-13"
+       id="path3536"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1062.654,356.69665 -5,-13"
+       id="path3538"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1071.654,354.69665 -2,-13"
+       id="path3540"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1082.654,353.69665 0,-13"
+       id="path3542"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1025.654,484.69665 15,-13"
+       id="path3558"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1030.654,488.69665 13,-14"
+       id="path3560"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1039.654,494.69665 11,-15"
+       id="path3562"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1051.654,500.69665 8,-17"
+       id="path3564"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1063.654,504.69665 4,-18"
+       id="path3566"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1074.654,505.69665 1,-17"
+       id="path3568"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1026.654,369.69665 -7,-7"
+       id="path3584"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1028.654,476.69665 -8,8"
+       id="path3586"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 878.65403,130.69665 -5,-9 51,-29.999992 6,9.000002"
+       id="path3744"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="rect3352"
+       width="77"
+       height="210"
+       x="1081.6541"
+       y="310.69672" />
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 747.58896,377.85377 -2.95361,26.46798 -0.3109,19.16649 0.62181,21.44818 2.6427,24.03422 0,0.30414 104.61941,0.15218 -0.3109,-91.72537 z"
+       id="path3178"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.1495831;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3176"
+       sodipodi:cx="-280.01428"
+       sodipodi:cy="326.98541"
+       sodipodi:rx="33.234016"
+       sodipodi:ry="33.234016"
+       d="m -246.78027,326.98541 a 33.234016,33.234016 0 1 1 -66.46803,0 33.234016,33.234016 0 1 1 66.46803,0 z"
+       transform="matrix(0.8793712,0,0,0.86049227,1043.4147,139.96771)" />
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 983.71956,724.647 56.27984,5.08645 1.9786,-1.87397 0.4397,3.61406 1.7587,-2.00785 48.8051,4.68493 -5.716,23.82593 -12.531,53.13997 -110.1412,-9.6375 z"
+       id="path3271"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#bb773e;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 786.9603,529.74552 -3.0778,1.93611 -14.94931,-21.29726 25.72161,-16.9947 18.02711,0.43024 19.34617,27.53574 22.42396,-14.84351 -9.67309,-13.12247 7.6945,0 7.47466,9.46541 35.83433,0.21517 47.04645,67.33347 -11.65167,32.69868 -66.17273,44.10031 -4.83654,-5.59328 2.41827,-2.36635 -33.19626,-39.3675 -22.20412,15.27375 -3.73733,-5.59317 21.5446,-14.62835 -28.57957,-48.61784 30.99784,-21.7275 -18.68665,-26.02986 -12.53103,-0.43024 -21.5446,14.19811 z"
+       id="path3181"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 792.51133,500.59631 8.87616,10.64863 -6.98002,4.67886 -8.35402,-11.13261 z"
+       id="path3231"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 802.18442,525.7657 5.60598,-4.03355 -6.43039,-10.37973 -6.70521,4.41005 7.2548,10.11082 z"
+       id="path3219"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 801.57984,511.24494 10.44253,-7.85204 4.83655,6.88399 -11.3219,7.09905 z"
+       id="path3203"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3643"
+       transform="matrix(0,-1.0756153,-1.099214,0,98.192807,1435.8439)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3579"
+         d="m 836.00008,-808 -76,0 0,-220 76,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.91966647px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3583"
+         d="m 1035,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3603"
+         d="m 1060,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3605"
+         d="m 1085,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3607"
+         d="m 1110,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3609"
+         d="m 1135,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3611"
+         d="m 1160,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3613"
+         d="m 1185,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3615"
+         d="m 1210,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3617"
+         d="m 1235,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3619"
+         d="m 1260,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#bb773e;fill-opacity:1;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 847.24284,237.26964 58.10336,-9.06259 8.38404,51.70462 -58.88327,9.2534 z"
+       id="path3623"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 854.16454,242.51639 6.14181,39.20779 46.11225,-7.34548 -6.23925,-38.92157 z"
+       id="path3621"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="matrix(0,-1.0756153,-1.099214,0,59.500473,1131.2296)"
+       id="g3643-8">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3579-8"
+         d="m 836.00008,-808 -76,0 0,-220 76,0 z"
+         style="fill:none;stroke:#000000;stroke-width:0.91966647px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3583-8"
+         d="m 1035,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3603-9"
+         d="m 1060,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3605-9"
+         d="m 1085,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3607-6"
+         d="m 1110,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3609-7"
+         d="m 1135,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3611-4"
+         d="m 1160,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3613-0"
+         d="m 1185,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3615-2"
+         d="m 1210,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3617-8"
+         d="m 1235,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0,-0.8,-0.8,0,1683.72,0)"
+         inkscape:connector-curvature="0"
+         id="path3619-0"
+         d="m 1260,1059.6499 0,95"
+         style="fill:none;stroke:#000000;stroke-width:1.1495831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 872.03946,632.57426 -35.39469,-40.22797 -25.50177,-43.88513 21.98429,-14.19811 1.31905,-4.7327 27.26051,-18.50058 29.45894,-0.21517 42.86938,60.4496 -10.11286,27.1055 z"
+       id="path3179"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#bb773e;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 840.05234,654.94706 8.13418,-5.378 4.72662,6.66882 -7.14489,4.51753 z"
+       id="path3183"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#bb773e;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 782.23368,555.12997 4.83654,6.45375 -9.12347,6.45365 -3.51749,-7.63687 z"
+       id="path3185"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#bb773e;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 765.74547,540.82428 3.70985,-3.1999 2.11599,2.689 -4.45183,3.71091 -1.26409,-3.14616 z"
+       id="path3187"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 769.59271,537.97395 12.75089,-8.49734"
+       id="path3189"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 781.84895,530.06817 -6.10063,-4.89403 -6.10064,12.42332 2.58315,-1.45204 4.8915,-10.27213 -1.04425,-0.753 -0.32976,0.0536"
+       id="path3191"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 754.42357,504.25337 16.15844,-11.50911 8.2441,11.07887 -6.48536,4.35621 -7.85937,-11.02502"
+       id="path3193"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 768.65839,502.80134 6.21056,-4.51764"
+       id="path3195"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 767.44926,494.73422 8.13417,11.29394"
+       id="path3197"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 764.26153,497.10058 8.13419,11.07876 6.7052,-4.46379 -8.46395,-10.8637 z"
+       id="path3199"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 801.79969,525.65812 6.10063,-4.0873 7.85938,11.45526 -5.82583,4.30247 z"
+       id="path3201"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 806.41639,507.53404 4.45181,6.34606"
+       id="path3205"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 814.00097,506.61972 -10.60742,7.7982"
+       id="path3207"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 801.52488,511.37935 6.293,10.21829 -5.60598,3.79157 -4.64418,-9.1965 z"
+       id="path3221"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 802.32181,525.49679 -7.88686,-9.73432 7.08993,-4.78644 -3.95716,5.2436 z"
+       id="path3223"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 801.68977,511.24494 10.36009,-7.82512 4.34189,6.56123 -10.88221,7.6638 -3.98466,-6.2655 z"
+       id="path3225"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 806.5263,507.72229 4.42435,6.07715"
+       id="path3227"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 814.19332,506.35081 -10.71733,8.33602"
+       id="path3229"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 789.65338,502.66683 8.32654,10.83688"
+       id="path3233"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 790.1755,510.41129 6.78764,-4.89403"
+       id="path3235"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 787.31754,503.98446 13.8501,7.09905"
+       id="path3237"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 794.43495,515.70873 -11.62418,7.90569"
+       id="path3239"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 796.6059,518.8549 -11.67915,7.69061"
+       id="path3241"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 799.21654,522.10864 -12.20128,7.82502"
+       id="path3243"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 788.00456,519.44646 c 0.13739,0.21517 4.78157,6.80322 4.78157,6.80322"
+       id="path3245"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 782.89321,523.64134 11.37687,-7.93261 4.89149,6.58816 -11.84403,7.63677 -4.39685,-6.18474 z"
+       id="path3247"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 774.7865,512.2129 11.54176,-7.63677 7.94182,11.1326 -11.32191,7.90569 z"
+       id="path3249"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 792.70369,500.4618 3.65489,-2.36635 12.11884,0.40342 3.54495,4.89403 -10.52497,7.82512 z"
+       id="path3251"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 805.53702,517.42968 11.10205,-7.58314 10.71735,14.89736 -11.48679,8.22844 z"
+       id="path3253"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 796.85323,546.57889 c -0.27481,0 -12.47609,8.92758 -12.47609,8.92758"
+       id="path3255"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 782.67336,554.69974 0.7145,-0.32265 6.54032,6.34606"
+       id="path3257"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 788.55416,559.48628 6.4304,-11.77801 2.03355,-1.29071 -7.08993,14.25185 z"
+       id="path3259"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 852.41849,655.10839 12.3112,-8.38976"
+       id="path3261"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 863.46559,647.63296 c 0.37783,0.17096 1.38541,-0.76999 2.45596,5.21806"
+       id="path3263"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 852.85818,655.59247 13.02568,-1.07564 0,-1.77479 -11.5967,1.12949 -1.81371,1.55962 z"
+       id="path3265"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1028.3477,618.80639 -12.5311,81.74675 -19.34614,-2.58141 -3.29761,21.51233 142.67785,20.43669 3.7374,-21.94257 -68.8108,-9.68058 13.6303,-90.13651 z"
+       id="path3267-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1015.5968,700.44566 55.7301,7.85194"
+       id="path3269"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999982px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1016.7661,727.67189 -19.52077,76.82429"
+       id="path3273"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1059.6379,731.50777 -19.1768,77.37983"
+       id="path3275"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 796.49149,574.71765 129.50733,0"
+       id="path3105"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 825.9369,622.60676 21.45243,-27.07647"
+       id="path3107"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 847.27273,595.87255 73.33464,0"
+       id="path3109"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 804.71768,523.42774 7.77262,11.33264"
+       id="path3128"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 805.49494,531.41377 5.98492,-4.25913"
+       id="path3130"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 775.6481,506.0106 -7.92807,-11.2565"
+       id="path3132"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 768.26411,502.58806 6.8399,-4.25924"
+       id="path3134"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 784.43116,526.77425 12.35846,-7.98603"
+       id="path3136"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 788.47292,519.70096 4.35267,6.4649"
+       id="path3138"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.1495831;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3148"
+       sodipodi:cx="-110.30865"
+       sodipodi:cy="588.61493"
+       sodipodi:rx="42.072853"
+       sodipodi:ry="42.072853"
+       d="m -68.235794,588.61493 a 42.072853,42.072853 0 1 1 -84.145706,0 42.072853,42.072853 0 1 1 84.145706,0 z"
+       transform="matrix(0.8793712,0,0,0.86049227,1042.6375,143.38447)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.1495831;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3148-6"
+       sodipodi:cx="-110.30865"
+       sodipodi:cy="588.61493"
+       sodipodi:rx="42.072853"
+       sodipodi:ry="42.072853"
+       d="m -68.235794,588.61493 a 42.072853,42.072853 0 1 1 -84.145706,0 42.072853,42.072853 0 1 1 84.145706,0 z"
+       transform="matrix(0.8793712,0,0,0.86049227,1072.4843,-321.67875)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.1495831;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3174"
+       sodipodi:cx="-268.34702"
+       sodipodi:cy="326.80865"
+       sodipodi:rx="7.6013975"
+       sodipodi:ry="7.6013975"
+       d="m -260.74562,326.80865 a 7.6013975,7.6013975 0 1 1 -15.20279,0 7.6013975,7.6013975 0 1 1 15.20279,0 z"
+       transform="matrix(0.8793712,0,0,0.86049227,1042.4333,140.47177)" />
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 851.89749,377.85377 5.53863,-0.15218 -0.25175,91.87744 -5.03512,-0.45632 z"
+       id="path3180"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5320-2-7-6"
+       width="274.03806"
+       height="48.213196"
+       x="885.97296"
+       y="762.40332" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="1075.7694"
+       y="805.61652"
+       id="text7477-5-2-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7479-1-0-9"
+         x="1075.7694"
+         y="805.61652">270<tspan
+   style="font-size:11px;baseline-shift:super"
+   id="tspan7481-7-3-2">o</tspan></tspan></text>
+    <path
+       style="color:#000000;fill:#9e9e9e;fill-opacity:1;fill-rule:nonzero;stroke:#9b9b9b;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1078.573,56.902404 0,730.000036"
+       id="path3960-5"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect3146-9"
+       width="44.14846"
+       height="14.015096"
+       x="981.40356"
+       y="370.15247" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect3146-9-6"
+       width="44.14846"
+       height="14.103484"
+       x="982.862"
+       y="462.12057" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect3146-9-4"
+       width="3.0478783"
+       height="14.015096"
+       x="1007.1246"
+       y="373.24606" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect3146-9-4-3"
+       width="3.0478783"
+       height="14.015096"
+       x="1007.1801"
+       y="458.76181" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect3146-9-4-3-9"
+       width="1.9982667"
+       height="14.015096"
+       x="1027.1556"
+       y="458.54083" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect3146-9-4-3-9-8"
+       width="1.9982667"
+       height="14.015096"
+       x="1027.1611"
+       y="374.74866" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="rect5504"
+       width="6.5407381"
+       height="8.8388348"
+       x="867.71332"
+       y="380.2536" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1"
+       width="6.5849319"
+       height="8.8388348"
+       x="880.83899"
+       y="380.60715" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-3"
+       width="6.5849319"
+       height="8.8388348"
+       x="893.98676"
+       y="380.47458" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-6"
+       width="6.5849319"
+       height="8.8388348"
+       x="907.245"
+       y="381.0491" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-9"
+       width="6.5849319"
+       height="8.8388348"
+       x="920.45905"
+       y="381.0491" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-1"
+       width="6.5849319"
+       height="8.8388348"
+       x="933.76147"
+       y="381.22589" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-37"
+       width="6.5849319"
+       height="8.8388348"
+       x="946.97559"
+       y="381.0491" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-7"
+       width="6.5849319"
+       height="8.8388348"
+       x="960.10126"
+       y="381.18167" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-4"
+       width="6.5849319"
+       height="8.8388348"
+       x="973.31531"
+       y="380.96072" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-5"
+       width="6.5849319"
+       height="8.8388348"
+       x="986.52936"
+       y="380.96075" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-39"
+       width="6.5849319"
+       height="8.8388348"
+       x="997.88727"
+       y="380.82816" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-7"
+       width="6.5407381"
+       height="8.8388348"
+       x="867.39288"
+       y="457.19571" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-61"
+       width="6.5849319"
+       height="8.8388348"
+       x="877.60175"
+       y="457.1073" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-3-7"
+       width="6.5849319"
+       height="8.8388348"
+       x="890.74951"
+       y="456.97473" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-6-4"
+       width="6.5849319"
+       height="8.8388348"
+       x="904.00775"
+       y="457.54926" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-9-5"
+       width="6.5849319"
+       height="8.8388348"
+       x="917.2218"
+       y="457.54926" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-1-7"
+       width="6.5849319"
+       height="8.8388348"
+       x="930.52423"
+       y="457.72604" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-37-3"
+       width="6.5849319"
+       height="8.8388348"
+       x="943.73834"
+       y="457.54926" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-7-6"
+       width="6.5849319"
+       height="8.8388348"
+       x="956.86401"
+       y="457.68182" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-4-1"
+       width="6.5849319"
+       height="8.8388348"
+       x="970.07806"
+       y="457.46088" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-5-7"
+       width="6.5849319"
+       height="8.8388348"
+       x="983.29211"
+       y="457.46091" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-39-5"
+       width="6.5849319"
+       height="8.8388348"
+       x="994.65002"
+       y="457.32831" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12"
+       width="6.5849319"
+       height="6.7175145"
+       x="861.50403"
+       y="390.8602" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-8"
+       width="6.5849319"
+       height="6.7175145"
+       x="861.59241"
+       y="404.03009" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-3"
+       width="6.5849319"
+       height="6.7175145"
+       x="861.68079"
+       y="416.93478" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-9"
+       width="6.5849319"
+       height="6.7175145"
+       x="861.41565"
+       y="430.36981" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-2"
+       width="6.5849319"
+       height="6.7175145"
+       x="861.06213"
+       y="443.62808" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-5"
+       width="6.5849319"
+       height="6.7175145"
+       x="1001.3595"
+       y="390.99878" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-8-1"
+       width="6.5849319"
+       height="6.7175145"
+       x="1001.4479"
+       y="404.16867" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-3-5"
+       width="6.5849319"
+       height="6.7175145"
+       x="1001.5363"
+       y="417.07336" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-9-0"
+       width="6.5849319"
+       height="6.7175145"
+       x="1001.2711"
+       y="430.50839" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-2-5"
+       width="6.5849319"
+       height="6.7175145"
+       x="1000.9176"
+       y="443.76666" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-5-9"
+       width="6.5849319"
+       height="6.7175145"
+       x="1008.797"
+       y="391.62378" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-8-1-4"
+       width="6.5849319"
+       height="6.7175145"
+       x="1008.8854"
+       y="404.79367" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-3-5-3"
+       width="6.5849319"
+       height="6.7175145"
+       x="1008.9738"
+       y="417.69836" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-9-0-7"
+       width="6.5849319"
+       height="6.7175145"
+       x="1008.7086"
+       y="431.13339" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-12-2-5-8"
+       width="6.5849319"
+       height="6.7175145"
+       x="1008.3551"
+       y="444.39166" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-5-1"
+       width="6.5849319"
+       height="8.8388348"
+       x="1015.3519"
+       y="380.44708" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline"
+       id="rect5504-1-5-1-2"
+       width="6.5849319"
+       height="8.8388348"
+       x="1015.1644"
+       y="456.38458" />
+    <path
+       style="color:#000000;fill:#9e9e9e;fill-opacity:1;fill-rule:nonzero;stroke:#9b9b9b;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1078.7694,421.90244 -365.19639,0"
+       id="path3962-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1078.753,778.64422 0,-362.37329 -15,-5.31167 30,-5.31166 -15,-5.31167 0,-333.454276"
+       id="path7114-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="895.76941"
+       y="350.61649"
+       id="text3234"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3236"
+         x="895.76941"
+         y="350.61649"
+         style="font-size:13px">20UJA26R120</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="825.76941"
+       y="570.61652"
+       id="text3234-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3236-1"
+         x="825.76941"
+         y="570.61652"
+         style="font-size:13px">20UJA26R410</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="835.48859"
+       y="592.30798"
+       id="text3234-2-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3236-1-5"
+         x="835.48859"
+         y="592.30798"
+         style="font-size:13px">20UJA26R411</tspan></text>
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none"
+       id="rect3324"
+       width="280"
+       height="600.17676"
+       x="1080.5303"
+       y="170.82323" />
+  </g>
+  <g
+     inkscape:label="Слой дополнительный"
+     inkscape:groupmode="layer"
+     id="g10506"
+     style="display:inline" />
+  <g
+     style="display:inline"
+     inkscape:label="Слой активных элементов"
+     id="active_layer"
+     inkscape:groupmode="layer">
+    <g
+       transform="translate(20,111)"
+       id="Пользовательская-ссылка-3-1-0-9-8"
+       mnemowidget="1"
+       customwidget="1"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       style="display:inline"
+       nsX="19.5"
+       nsY="110.5"
+       nsW="96.000002"
+       nsH="26">
+      <signals
+         id="signals4654-4-0-1-2-1">
+        <signal
+           type="String"
+           templatename="HLINKFILE"
+           name="svg/20CFL30EJ101.svg"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           humname="ФАЙЛ"
+           id="signal4656-2-0-46-7-9" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         inkscape:connector-curvature="0"
+         id="path12216-6-4-5-8-1-8-2-7-5-6-2-7-7-9-5-8-6-2-1-2-7-2-5-0-2-1-7-2-5-3-7-8-7-6-7-6-9-7-7-7-1-6-8-9-9-6-6-7-5-1-9-0-0-8-8-9-6-4-1-5-1-5-4-0-8-0-5-2-9-75-2-2"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text26107-3-9-3-8-4"
+         y="17"
+         x="46.724609"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="17"
+           x="46.724609"
+           id="tspan26109-8-7-3-6-8"
+           sodipodi:role="line">Точки РКП</tspan></text>
+    </g>
+    <g
+       transform="translate(20,28.00001)"
+       id="Пользовательская-ссылка-3-1-8"
+       mnemowidget="1"
+       customwidget="1"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       style="display:inline"
+       nsX="19.5"
+       nsY="27.50001"
+       nsW="96.000002"
+       nsH="26">
+      <signals
+         id="signals4654-4-0-7">
+        <signal
+           type="String"
+           templatename="HLINKFILE"
+           name="svg/20CFL00EJ101.svg"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           humname="ФАЙЛ"
+           id="signal4656-2-0-62" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         inkscape:connector-curvature="0"
+         id="path12216-6-4-5-8-1-8-2-7-5-6-2-7-7-9-5-8-6-2-1-2-7-2-5-0-2-1-7-2-5-3-7-8-7-6-7-6-9-7-7-7-1-6-8-9-9-6-6-7-5-1-9-0-0-8-8-9-6-4-1-5-1-5-4-0-8-0-5-2-9-1"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text26107-3-9-2"
+         y="17"
+         x="46.724609"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="17"
+           x="46.724609"
+           id="tspan26109-8-7-2"
+           sodipodi:role="line">Обзорный</tspan></text>
+    </g>
+    <g
+       transform="translate(20.497398,251.17773)"
+       id="Пользовательская-ссылка-3-1-9-9"
+       mnemowidget="1"
+       customwidget="1"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       style="display:inline"
+       nsX="19.997398"
+       nsY="250.67773"
+       nsW="96.000002"
+       nsH="26">
+      <signals
+         id="signals4654-4-0-6-5">
+        <signal
+           type="String"
+           templatename="HLINKFILE"
+           name="svg/20CFL30EJ119.svg"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           humname="ФАЙЛ"
+           id="signal4656-2-0-2-6" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         inkscape:connector-curvature="0"
+         id="path12216-6-4-5-8-1-8-2-7-5-6-2-7-7-9-5-8-6-2-1-2-7-2-5-0-2-1-7-2-5-3-7-8-7-6-7-6-9-7-7-7-1-6-8-9-9-6-6-7-5-1-9-0-0-8-8-9-6-4-1-5-1-5-4-0-8-0-5-2-9-9-9"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text26107-3-9-4-0"
+         y="17"
+         x="46.724609"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="17"
+           x="46.724609"
+           id="tspan26109-8-7-7-4"
+           sodipodi:role="line">20UJA02</tspan></text>
+    </g>
+    <g
+       transform="translate(20,296.08942)"
+       id="Пользовательская-ссылка-3-1-9-9-4"
+       mnemowidget="1"
+       customwidget="1"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       style="display:inline"
+       nsX="19.5"
+       nsY="295.58942"
+       nsW="96.000002"
+       nsH="26">
+      <signals
+         id="signals4654-4-0-6-5-5">
+        <signal
+           type="String"
+           templatename="HLINKFILE"
+           name="svg/20CFL30EJ120.svg"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           humname="ФАЙЛ"
+           id="signal4656-2-0-2-6-0" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         inkscape:connector-curvature="0"
+         id="path12216-6-4-5-8-1-8-2-7-5-6-2-7-7-9-5-8-6-2-1-2-7-2-5-0-2-1-7-2-5-3-7-8-7-6-7-6-9-7-7-7-1-6-8-9-9-6-6-7-5-1-9-0-0-8-8-9-6-4-1-5-1-5-4-0-8-0-5-2-9-9-9-4"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text26107-3-9-4-0-0"
+         y="17"
+         x="46.724609"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="17"
+           x="46.724609"
+           id="tspan26109-8-7-7-4-6"
+           sodipodi:role="line">20UJA04</tspan></text>
+    </g>
+    <g
+       transform="translate(20,387.91273)"
+       id="Пользовательская-ссылка-3-1-9-9-7"
+       mnemowidget="1"
+       customwidget="1"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       style="display:inline"
+       nsX="19.5"
+       nsY="387.41273"
+       nsW="96.000002"
+       nsH="26">
+      <signals
+         id="signals4654-4-0-6-5-7">
+        <signal
+           type="String"
+           templatename="HLINKFILE"
+           name="svg/20CFL30EJ122.svg"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           humname="ФАЙЛ"
+           id="signal4656-2-0-2-6-53" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         inkscape:connector-curvature="0"
+         id="path12216-6-4-5-8-1-8-2-7-5-6-2-7-7-9-5-8-6-2-1-2-7-2-5-0-2-1-7-2-5-3-7-8-7-6-7-6-9-7-7-7-1-6-8-9-9-6-6-7-5-1-9-0-0-8-8-9-6-4-1-5-1-5-4-0-8-0-5-2-9-9-9-7"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text26107-3-9-4-0-9"
+         y="17"
+         x="46.724609"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="17"
+           x="46.724609"
+           id="tspan26109-8-7-7-4-7"
+           sodipodi:role="line">20UJA11</tspan></text>
+    </g>
+    <g
+       transform="translate(20,434.82438)"
+       id="Пользовательская-ссылка-3-1-9-9-8"
+       mnemowidget="1"
+       customwidget="1"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       style="display:inline"
+       nsX="19.5"
+       nsY="434.32438"
+       nsW="96.000002"
+       nsH="26">
+      <signals
+         id="signals4654-4-0-6-5-1">
+        <signal
+           type="String"
+           templatename="HLINKFILE"
+           name="svg/20CFL30EJ123.svg"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           humname="ФАЙЛ"
+           id="signal4656-2-0-2-6-4" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         inkscape:connector-curvature="0"
+         id="path12216-6-4-5-8-1-8-2-7-5-6-2-7-7-9-5-8-6-2-1-2-7-2-5-0-2-1-7-2-5-3-7-8-7-6-7-6-9-7-7-7-1-6-8-9-9-6-6-7-5-1-9-0-0-8-8-9-6-4-1-5-1-5-4-0-8-0-5-2-9-9-9-2"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text26107-3-9-4-0-8"
+         y="17"
+         x="46.724609"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="17"
+           x="46.724609"
+           id="tspan26109-8-7-7-4-4"
+           sodipodi:role="line">20UJA14</tspan></text>
+    </g>
+    <g
+       transform="translate(20,481.73604)"
+       id="Пользовательская-ссылка-3-1-9-9-6-0"
+       mnemowidget="1"
+       customwidget="1"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       style="display:inline"
+       nsX="19.5"
+       nsY="481.23604"
+       nsW="96.000002"
+       nsH="26">
+      <signals
+         id="signals4654-4-0-6-5-53-9">
+        <signal
+           type="String"
+           templatename="HLINKFILE"
+           name="svg/20CFL30EJ124.svg"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           humname="ФАЙЛ"
+           id="signal4656-2-0-2-6-5-5" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         inkscape:connector-curvature="0"
+         id="path12216-6-4-5-8-1-8-2-7-5-6-2-7-7-9-5-8-6-2-1-2-7-2-5-0-2-1-7-2-5-3-7-8-7-6-7-6-9-7-7-7-1-6-8-9-9-6-6-7-5-1-9-0-0-8-8-9-6-4-1-5-1-5-4-0-8-0-5-2-9-9-9-5-2"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text26107-3-9-4-0-3-1"
+         y="17"
+         x="46.724609"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="17"
+           x="46.724609"
+           id="tspan26109-8-7-7-4-60-9"
+           sodipodi:role="line">20UJA16</tspan></text>
+    </g>
+    <g
+       transform="translate(20,526.64769)"
+       id="Пользовательская-ссылка-3-1-9-9-7-2"
+       mnemowidget="1"
+       customwidget="1"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       style="display:inline"
+       nsX="19.5"
+       nsY="526.14769"
+       nsW="96.000002"
+       nsH="26">
+      <signals
+         id="signals4654-4-0-6-5-7-2">
+        <signal
+           type="String"
+           templatename="HLINKFILE"
+           name="svg/20CFL30EJ125.svg"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           humname="ФАЙЛ"
+           id="signal4656-2-0-2-6-53-7" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         inkscape:connector-curvature="0"
+         id="path12216-6-4-5-8-1-8-2-7-5-6-2-7-7-9-5-8-6-2-1-2-7-2-5-0-2-1-7-2-5-3-7-8-7-6-7-6-9-7-7-7-1-6-8-9-9-6-6-7-5-1-9-0-0-8-8-9-6-4-1-5-1-5-4-0-8-0-5-2-9-9-9-7-6"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text26107-3-9-4-0-9-5"
+         y="17"
+         x="46.724609"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="17"
+           x="46.724609"
+           id="tspan26109-8-7-7-4-7-3"
+           sodipodi:role="line">20UJA21</tspan></text>
+    </g>
+    <g
+       transform="translate(20.022097,204.26612)"
+       id="Пользовательская-ссылка-3-1-9"
+       mnemowidget="1"
+       customwidget="1"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       style="display:inline"
+       nsX="19.522097"
+       nsY="203.76612"
+       nsW="96.000002"
+       nsH="26">
+      <signals
+         id="signals4654-4-0-6">
+        <signal
+           type="String"
+           templatename="HLINKFILE"
+           name="svg/20CFL30EJ118.svg"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           humname="ФАЙЛ"
+           id="signal4656-2-0-2" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         inkscape:connector-curvature="0"
+         id="path12216-6-4-5-8-1-8-2-7-5-6-2-7-7-9-5-8-6-2-1-2-7-2-5-0-2-1-7-2-5-3-7-8-7-6-7-6-9-7-7-7-1-6-8-9-9-6-6-7-5-1-9-0-0-8-8-9-6-4-1-5-1-5-4-0-8-0-5-2-9-9"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text26107-3-9-4"
+         y="17"
+         x="46.724609"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="17"
+           x="46.724609"
+           id="tspan26109-8-7-7"
+           sodipodi:role="line">20UJA00</tspan></text>
+    </g>
+    <g
+       transform="translate(20,341.00107)"
+       id="Пользовательская-ссылка-3-1-9-9-6"
+       mnemowidget="1"
+       customwidget="1"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       style="display:inline"
+       nsX="19.5"
+       nsY="340.50107"
+       nsW="96.000002"
+       nsH="26">
+      <signals
+         id="signals4654-4-0-6-5-53">
+        <signal
+           type="String"
+           templatename="HLINKFILE"
+           name="svg/20CFL30EJ121.svg"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           humname="ФАЙЛ"
+           id="signal4656-2-0-2-6-5" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         inkscape:connector-curvature="0"
+         id="path12216-6-4-5-8-1-8-2-7-5-6-2-7-7-9-5-8-6-2-1-2-7-2-5-0-2-1-7-2-5-3-7-8-7-6-7-6-9-7-7-7-1-6-8-9-9-6-6-7-5-1-9-0-0-8-8-9-6-4-1-5-1-5-4-0-8-0-5-2-9-9-9-5"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text26107-3-9-4-0-3"
+         y="17"
+         x="46.724609"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="17"
+           x="46.724609"
+           id="tspan26109-8-7-7-4-60"
+           sodipodi:role="line">20UJA08</tspan></text>
+    </g>
+    <g
+       nsH="26"
+       nsW="96.000002"
+       nsY="571.61041"
+       nsX="20.01324"
+       style="display:inline"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       customwidget="1"
+       mnemowidget="1"
+       id="g3368"
+       transform="translate(20.51324,572.11041)">
+      <signals
+         id="signals3370">
+        <signal
+           id="signal3372"
+           humname="ФАЙЛ"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           name="svg/20CFL30EJ127.svg"
+           templatename="HLINKFILE"
+           type="String" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         id="path3374"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="46.724609"
+         y="17"
+         id="text3376"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3378"
+           x="46.724609"
+           y="17">20UJA31,34</tspan></text>
+    </g>
+    <g
+       nsH="26"
+       nsW="96.000002"
+       nsY="618.52206"
+       nsX="20.01324"
+       style="display:inline"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       customwidget="1"
+       mnemowidget="1"
+       id="g3380"
+       transform="translate(20.51324,619.02206)">
+      <signals
+         id="signals3382">
+        <signal
+           id="signal3384"
+           humname="ФАЙЛ"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           name="svg/20CFL30EJ129.svg"
+           templatename="HLINKFILE"
+           type="String" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         id="path3386"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="46.724609"
+         y="17"
+         id="text3388"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3390"
+           x="46.724609"
+           y="17">20UJA93</tspan></text>
+    </g>
+    <g
+       nsH="26"
+       nsW="96.000002"
+       nsY="663.53499"
+       nsX="19.650757"
+       style="display:inline"
+       widget="libF_LINK-CUSTOM_01_CFTA"
+       customwidget="1"
+       mnemowidget="1"
+       id="g3380-1"
+       transform="translate(20.150757,664.03499)">
+      <signals
+         id="signals3382-5">
+        <signal
+           id="signal3384-2"
+           humname="ФАЙЛ"
+           desc="Имя файла мнемосхемы, на которую требуется выполнить переход"
+           name="svg/20CFL30EJ130.svg"
+           templatename="HLINKFILE"
+           type="String" />
+        <!--      <signal type="Integer" templatename="TYPESCHEME" name="1" desc="В каком окне открыть (0 - главное, 1 - дополнительное, 2 - окно оборудования, надо определиться)"/> -->
+      </signals>
+      <path
+         style="fill:#d3fff7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         d="m 0,0 0,25 95.000002,0 0,-25 z"
+         id="path3386-9"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="46.724609"
+         y="17"
+         id="text3388-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3390-0"
+           x="46.724609"
+           y="17">20UJA97</tspan></text>
+    </g>
+    <g
+       id="Индикатор для обобщенной сигнализации в вызываемом видеоакдре-282"
+       mnemowidget="1"
+       widget="libF_COMMONSIGNAL_01_CA"
+       style="display:inline"
+       transform="translate(20.200179,52.300015)"
+       nsX="20.700179"
+       nsY="52.800015"
+       nsW="96"
+       nsH="27">
+      <signals
+         id="signals12234-0">
+        <nsstringconst
+           id="nsstringconst12236-8"
+           humname="ОБЩ_НЕИСПРАВНОСТЬ_ИЛИ_НЕТ_ДАННЫХ"
+           req="0"
+           desc="Обобщенная неисправность или отсутствие данных в видеокадре"
+           name="(@00GRK17CR001-B01_XN26 &amp;&amp; @00GRK17CR001-B01_XD23 &amp;&amp; @00GRK17CR001-B01_XN25==0 ) || (@20FAK10CR001-B01_XN26 &amp;&amp; @20FAK10CR001-B01_XD23 &amp;&amp; @20FAK10CR001-B01_XN25==0 ) || (@20FAK40CR001-B01_XN26 &amp;&amp; @20FAK40CR001-B01_XD23 &amp;&amp; @20FAK40CR001-B01_XN25==0 ) || (@20JNG10CR001-B01_XN26 &amp;&amp; @20JNG10CR001-B01_XD23 &amp;&amp; @20JNG10CR001-B01_XN25==0 ) || (@20JNG10CR002-B01_XN26 &amp;&amp; @20JNG10CR002-B01_XD23 &amp;&amp; @20JNG10CR002-B01_XN25==0 ) || (@20JNG20CR001-B01_XN26 &amp;&amp; @20JNG20CR001-B01_XD23 &amp;&amp; @20JNG20CR001-B01_XN25==0 ) || (@20JNG20CR002-B01_XN26 &amp;&amp; @20JNG20CR002-B01_XD23 &amp;&amp; @20JNG20CR002-B01_XN25==0 ) || (@20JNG30CR001-B01_XN26 &amp;&amp; @20JNG30CR001-B01_XD23 &amp;&amp; @20JNG30CR001-B01_XN25==0 ) || (@20JNG30CR002-B01_XN26 &amp;&amp; @20JNG30CR002-B01_XD23 &amp;&amp; @20JNG30CR002-B01_XN25==0 ) || (@20JNG40CR001-B01_XN26 &amp;&amp; @20JNG40CR001-B01_XD23 &amp;&amp; @20JNG40CR001-B01_XN25==0 ) || (@20JNG40CR002-B01_XN26 &amp;&amp; @20JNG40CR002-B01_XD23 &amp;&amp; @20JNG40CR002-B01_XN25==0 ) || (@20KAA10CR001-B01_XN26 &amp;&amp; @20KAA10CR001-B01_XD23 &amp;&amp; @20KAA10CR001-B01_XN25==0 ) || (@20KAA20CR001-B01_XN26 &amp;&amp; @20KAA20CR001-B01_XD23 &amp;&amp; @20KAA20CR001-B01_XN25==0 ) || (@20KAA30CR001-B01_XN26 &amp;&amp; @20KAA30CR001-B01_XD23 &amp;&amp; @20KAA30CR001-B01_XN25==0 ) || (@20KAA40CR001-B01_XN26 &amp;&amp; @20KAA40CR001-B01_XD23 &amp;&amp; @20KAA40CR001-B01_XN25==0 ) || (@20KAB50CR001-B01_XN26 &amp;&amp; @20KAB50CR001-B01_XD23 &amp;&amp; @20KAB50CR001-B01_XN25==0 ) || (@20KAB60CR001-B01_XN26 &amp;&amp; @20KAB60CR001-B01_XD23 &amp;&amp; @20KAB60CR001-B01_XN25==0 ) || (@20KLA10CR001-B01_XN26 &amp;&amp; @20KLA10CR001-B01_XD23 &amp;&amp; @20KLA10CR001-B01_XN25==0 ) || (@20KLA20CR001-B01_XN26 &amp;&amp; @20KLA20CR001-B01_XD23 &amp;&amp; @20KLA20CR001-B01_XN25==0 ) || (@20KLA20CR002-B01_XN26 &amp;&amp; @20KLA20CR002-B01_XD23 &amp;&amp; @20KLA20CR002-B01_XN25==0 ) || (@20KLA30CR001-B01_XN26 &amp;&amp; @20KLA30CR001-B01_XD23 &amp;&amp; @20KLA30CR001-B01_XN25==0 ) || (@20KLA50CR001-B01_XN26 &amp;&amp; @20KLA50CR001-B01_XD23 &amp;&amp; @20KLA50CR001-B01_XN25==0 ) || (@20KLC11CR001-B01_XN26 &amp;&amp; @20KLC11CR001-B01_XD23 &amp;&amp; @20KLC11CR001-B01_XN25==0 ) || (@20KLC21CR001-B01_XN26 &amp;&amp; @20KLC21CR001-B01_XD23 &amp;&amp; @20KLC21CR001-B01_XN25==0 ) || (@20KLC31CR001-B01_XN26 &amp;&amp; @20KLC31CR001-B01_XD23 &amp;&amp; @20KLC31CR001-B01_XN25==0 ) || (@20KLC41CR001-B01_XN26 &amp;&amp; @20KLC41CR001-B01_XD23 &amp;&amp; @20KLC41CR001-B01_XN25==0 ) || (@20KLD10CR001-B01_XN26 &amp;&amp; @20KLD10CR001-B01_XD23 &amp;&amp; @20KLD10CR001-B01_XN25==0 ) || (@20KLD10CR002-B01_XN26 &amp;&amp; @20KLD10CR002-B01_XD23 &amp;&amp; @20KLD10CR002-B01_XN25==0 ) || (@20KLD10CR003-B01_XN26 &amp;&amp; @20KLD10CR003-B01_XD23 &amp;&amp; @20KLD10CR003-B01_XN25==0 ) || (@20KLD20CR001-B01_XN26 &amp;&amp; @20KLD20CR001-B01_XD23 &amp;&amp; @20KLD20CR001-B01_XN25==0 ) || (@20KLD20CR002-B01_XN26 &amp;&amp; @20KLD20CR002-B01_XD23 &amp;&amp; @20KLD20CR002-B01_XN25==0 ) || (@20KLD20CR003-B01_XN26 &amp;&amp; @20KLD20CR003-B01_XD23 &amp;&amp; @20KLD20CR003-B01_XN25==0 ) || (@20KLE20CR001-B01_XN26 &amp;&amp; @20KLE20CR001-B01_XD23 &amp;&amp; @20KLE20CR001-B01_XN25==0 ) || (@20KLE20CR002-B01_XN26 &amp;&amp; @20KLE20CR002-B01_XD23 &amp;&amp; @20KLE20CR002-B01_XN25==0 ) || (@20KLE20CR003-B01_XN26 &amp;&amp; @20KLE20CR003-B01_XD23 &amp;&amp; @20KLE20CR003-B01_XN25==0 ) || (@20KLE20CR004-B01_XN26 &amp;&amp; @20KLE20CR004-B01_XD23 &amp;&amp; @20KLE20CR004-B01_XN25==0 ) || (@20KLE20CR005-B01_XN26 &amp;&amp; @20KLE20CR005-B01_XD23 &amp;&amp; @20KLE20CR005-B01_XN25==0 ) || (@20KLE20CR006-B01_XN26 &amp;&amp; @20KLE20CR006-B01_XD23 &amp;&amp; @20KLE20CR006-B01_XN25==0 ) || (@20KLE20CR007-B01_XN26 &amp;&amp; @20KLE20CR007-B01_XD23 &amp;&amp; @20KLE20CR007-B01_XN25==0 ) || (@20KLE20CR008-B01_XN26 &amp;&amp; @20KLE20CR008-B01_XD23 &amp;&amp; @20KLE20CR008-B01_XN25==0 ) || (@20KLE20CR009-B01_XN26 &amp;&amp; @20KLE20CR009-B01_XD23 &amp;&amp; @20KLE20CR009-B01_XN25==0 ) || (@20KLE20CR010-B01_XN26 &amp;&amp; @20KLE20CR010-B01_XD23 &amp;&amp; @20KLE20CR010-B01_XN25==0 ) || (@20KLT20CR001-B01_XN26 &amp;&amp; @20KLT20CR001-B01_XD23 &amp;&amp; @20KLT20CR001-B01_XN25==0 ) || (@20KPF40CR001-B01_XN26 &amp;&amp; @20KPF40CR001-B01_XD23 &amp;&amp; @20KPF40CR001-B01_XN25==0 ) || (@20KPF40CR002-B01_XN26 &amp;&amp; @20KPF40CR002-B01_XD23 &amp;&amp; @20KPF40CR002-B01_XN25==0 ) || (@20KPL30CR001-B01_XN26 &amp;&amp; @20KPL30CR001-B01_XD23 &amp;&amp; @20KPL30CR001-B01_XN25==0 ) || (@20KPL70CR001-B01_XN26 &amp;&amp; @20KPL70CR001-B01_XD23 &amp;&amp; @20KPL70CR001-B01_XN25==0 ) || (@20KPL70CR002-B01_XN26 &amp;&amp; @20KPL70CR002-B01_XD23 &amp;&amp; @20KPL70CR002-B01_XN25==0 ) || (@20KUB01CR001-B01_XN26 &amp;&amp; @20KUB01CR001-B01_XD23 &amp;&amp; @20KUB01CR001-B01_XN25==0 ) || (@20KUB01CR002-B01_XN26 &amp;&amp; @20KUB01CR002-B01_XD23 &amp;&amp; @20KUB01CR002-B01_XN25==0 ) || (@20KUB01CR003-B01_XN26 &amp;&amp; @20KUB01CR003-B01_XD23 &amp;&amp; @20KUB01CR003-B01_XN25==0 ) || (@20LBA10CR001-B01_XN26 &amp;&amp; @20LBA10CR001-B01_XD23 &amp;&amp; @20LBA10CR001-B01_XN25==0 ) || (@20LBA20CR001-B01_XN26 &amp;&amp; @20LBA20CR001-B01_XD23 &amp;&amp; @20LBA20CR001-B01_XN25==0 ) || (@20LBA30CR001-B01_XN26 &amp;&amp; @20LBA30CR001-B01_XD23 &amp;&amp; @20LBA30CR001-B01_XN25==0 ) || (@20LBA40CR001-B01_XN26 &amp;&amp; @20LBA40CR001-B01_XD23 &amp;&amp; @20LBA40CR001-B01_XN25==0 ) || (@20LCN30CR001-B01_XN26 &amp;&amp; @20LCN30CR001-B01_XD23 &amp;&amp; @20LCN30CR001-B01_XN25==0 ) || (@20LCQ15CR001-B01_XN26 &amp;&amp; @20LCQ15CR001-B01_XD23 &amp;&amp; @20LCQ15CR001-B01_XN25==0 ) || (@20LCQ25CR001-B01_XN26 &amp;&amp; @20LCQ25CR001-B01_XD23 &amp;&amp; @20LCQ25CR001-B01_XN25==0 ) || (@20LCQ35CR001-B01_XN26 &amp;&amp; @20LCQ35CR001-B01_XD23 &amp;&amp; @20LCQ35CR001-B01_XN25==0 ) || (@20LCQ45CR001-B01_XN26 &amp;&amp; @20LCQ45CR001-B01_XD23 &amp;&amp; @20LCQ45CR001-B01_XN25==0 ) || (@20PEB11CR001-B01_XN26 &amp;&amp; @20PEB11CR001-B01_XD23 &amp;&amp; @20PEB11CR001-B01_XN25==0 ) || (@20PEB12CR001-B01_XN26 &amp;&amp; @20PEB12CR001-B01_XD23 &amp;&amp; @20PEB12CR001-B01_XN25==0 ) || (@20PEB21CR001-B01_XN26 &amp;&amp; @20PEB21CR001-B01_XD23 &amp;&amp; @20PEB21CR001-B01_XN25==0 ) || (@20PEB22CR001-B01_XN26 &amp;&amp; @20PEB22CR001-B01_XD23 &amp;&amp; @20PEB22CR001-B01_XN25==0 ) || (@20PEB31CR001-B01_XN26 &amp;&amp; @20PEB31CR001-B01_XD23 &amp;&amp; @20PEB31CR001-B01_XN25==0 ) || (@20PEB32CR001-B01_XN26 &amp;&amp; @20PEB32CR001-B01_XD23 &amp;&amp; @20PEB32CR001-B01_XN25==0 ) || (@20PEB41CR001-B01_XN26 &amp;&amp; @20PEB41CR001-B01_XD23 &amp;&amp; @20PEB41CR001-B01_XN25==0 ) || (@20PEB42CR001-B01_XN26 &amp;&amp; @20PEB42CR001-B01_XD23 &amp;&amp; @20PEB42CR001-B01_XN25==0 ) || (@20SAC10CR001-B01_XN26 &amp;&amp; @20SAC10CR001-B01_XD23 &amp;&amp; @20SAC10CR001-B01_XN25==0 ) || (@20SAC20CR001-B01_XN26 &amp;&amp; @20SAC20CR001-B01_XD23 &amp;&amp; @20SAC20CR001-B01_XN25==0 ) || (@20SAC40CR001-B01_XN26 &amp;&amp; @20SAC40CR001-B01_XD23 &amp;&amp; @20SAC40CR001-B01_XN25==0 ) || (@20UJA00CR001-B01_XN26 &amp;&amp; @20UJA00CR001-B01_XD23 &amp;&amp; @20UJA00CR001-B01_XN25==0 ) || (@20UJA00CR002-B01_XN26 &amp;&amp; @20UJA00CR002-B01_XD23 &amp;&amp; @20UJA00CR002-B01_XN25==0 ) || (@20UJA26CR001-B01_XN26 &amp;&amp; @20UJA26CR001-B01_XD23 &amp;&amp; @20UJA26CR001-B01_XN25==0 ) || (@20UJA26CR002-B01_XN26 &amp;&amp; @20UJA26CR002-B01_XD23 &amp;&amp; @20UJA26CR002-B01_XN25==0 ) || (@20UJA26CR006-B01_XN26 &amp;&amp; @20UJA26CR006-B01_XD23 &amp;&amp; @20UJA26CR006-B01_XN25==0 ) || (@20UKH12CR001-B01_XN26 &amp;&amp; @20UKH12CR001-B01_XD23 &amp;&amp; @20UKH12CR001-B01_XN25==0 ) || (@20UKH12CR002-B01_XN26 &amp;&amp; @20UKH12CR002-B01_XD23 &amp;&amp; @20UKH12CR002-B01_XN25==0 ) || (@20UKH12CR003-B01_XN26 &amp;&amp; @20UKH12CR003-B01_XD23 &amp;&amp; @20UKH12CR003-B01_XN25==0 ) || (@20UKH12CR004-B01_XN26 &amp;&amp; @20UKH12CR004-B01_XD23 &amp;&amp; @20UKH12CR004-B01_XN25==0 ) || (@20UKH12CR005-B01_XN26 &amp;&amp; @20UKH12CR005-B01_XD23 &amp;&amp; @20UKH12CR005-B01_XN25==0 ) || (@20UKH12CR006-B01_XN26 &amp;&amp; @20UKH12CR006-B01_XD23 &amp;&amp; @20UKH12CR006-B01_XN25==0 ) || (@20UKH12CR007-B01_XN26 &amp;&amp; @20UKH12CR007-B01_XD23 &amp;&amp; @20UKH12CR007-B01_XN25==0 ) || (@20UKH12CR008-B01_XN26 &amp;&amp; @20UKH12CR008-B01_XD23 &amp;&amp; @20UKH12CR008-B01_XN25==0 ) || (@20UKH12CR009-B01_XN26 &amp;&amp; @20UKH12CR009-B01_XD23 &amp;&amp; @20UKH12CR009-B01_XN25==0 ) || (@20UKH12CR010-B01_XN26 &amp;&amp; @20UKH12CR010-B01_XD23 &amp;&amp; @20UKH12CR010-B01_XN25==0 ) || (@20UKH12CR011-B01_XN26 &amp;&amp; @20UKH12CR011-B01_XD23 &amp;&amp; @20UKH12CR011-B01_XN25==0 ) || (@20UKH12CR012-B01_XN26 &amp;&amp; @20UKH12CR012-B01_XD23 &amp;&amp; @20UKH12CR012-B01_XN25==0 ) || (!@00GRK17CR001-B01_XD23 &amp;&amp; @00GRK17CR001-B01_XN25==0 ) || (!@20FAK10AP001_XD23 &amp;&amp; @20FAK10AP001_XN25==0 ) || (!@20FAK10CR001-B01_XD23 &amp;&amp; @20FAK10CR001-B01_XN25==0 ) || (!@20FAK40AP001_XD23 &amp;&amp; @20FAK40AP001_XN25==0 ) || (!@20FAK40CR001-B01_XD23 &amp;&amp; @20FAK40CR001-B01_XN25==0 ) || (!@20JNG10AP001_XD23 &amp;&amp; @20JNG10AP001_XN25==0 ) || (!@20JNG10CR001-B01_XD23 &amp;&amp; @20JNG10CR001-B01_XN25==0 ) || (!@20JNG10CR002-B01_XD23 &amp;&amp; @20JNG10CR002-B01_XN25==0 ) || (!@20JNG20AP001_XD23 &amp;&amp; @20JNG20AP001_XN25==0 ) || (!@20JNG20CR001-B01_XD23 &amp;&amp; @20JNG20CR001-B01_XN25==0 ) || (!@20JNG20CR002-B01_XD23 &amp;&amp; @20JNG20CR002-B01_XN25==0 ) || (!@20JNG30AP001_XD23 &amp;&amp; @20JNG30AP001_XN25==0 ) || (!@20JNG30CR001-B01_XD23 &amp;&amp; @20JNG30CR001-B01_XN25==0 ) || (!@20JNG30CR002-B01_XD23 &amp;&amp; @20JNG30CR002-B01_XN25==0 ) || (!@20JNG40AP001_XD23 &amp;&amp; @20JNG40AP001_XN25==0 ) || (!@20JNG40CR001-B01_XD23 &amp;&amp; @20JNG40CR001-B01_XN25==0 ) || (!@20JNG40CR002-B01_XD23 &amp;&amp; @20JNG40CR002-B01_XN25==0 ) || (!@20KAA10AP001_XD23 &amp;&amp; @20KAA10AP001_XN25==0 ) || (!@20KAA10CR001-B01_XD23 &amp;&amp; @20KAA10CR001-B01_XN25==0 ) || (!@20KAA20AP001_XD23 &amp;&amp; @20KAA20AP001_XN25==0 ) || (!@20KAA20CR001-B01_XD23 &amp;&amp; @20KAA20CR001-B01_XN25==0 ) || (!@20KAA30AP001_XD23 &amp;&amp; @20KAA30AP001_XN25==0 ) || (!@20KAA30CR001-B01_XD23 &amp;&amp; @20KAA30CR001-B01_XN25==0 ) || (!@20KAA40AP001_XD23 &amp;&amp; @20KAA40AP001_XN25==0 ) || (!@20KAA40CR001-B01_XD23 &amp;&amp; @20KAA40CR001-B01_XN25==0 ) || (!@20KAB10AP001_XD23 &amp;&amp; @20KAB10AP001_XN25==0 ) || (!@20KAB20AP001_XD23 &amp;&amp; @20KAB20AP001_XN25==0 ) || (!@20KAB30AP001_XD23 &amp;&amp; @20KAB30AP001_XN25==0 ) || (!@20KAB40AP001_XD23 &amp;&amp; @20KAB40AP001_XN25==0 ) || (!@20KAB50CR001-B01_XD23 &amp;&amp; @20KAB50CR001-B01_XN25==0 ) || (!@20KAB60CR001-B01_XD23 &amp;&amp; @20KAB60CR001-B01_XN25==0 ) || (!@20KBE10CR201-B01_XD23 &amp;&amp; @20KBE10CR201-B01_XN25==0 ) || (!@20KBE10CR202-B01_XD23 &amp;&amp; @20KBE10CR202-B01_XN25==0 ) || (!@20KBE50CR201-B01_XD23 &amp;&amp; @20KBE50CR201-B01_XN25==0 ) || (!@20KLA10CR001-B01_XD23 &amp;&amp; @20KLA10CR001-B01_XN25==0 ) || (!@20KLA10CR201-B01_XD23 &amp;&amp; @20KLA10CR201-B01_XN25==0 ) || (!@20KLA20CR001-B01_XD23 &amp;&amp; @20KLA20CR001-B01_XN25==0 ) || (!@20KLA20CR002-B01_XD23 &amp;&amp; @20KLA20CR002-B01_XN25==0 ) || (!@20KLA20CR201-B01_XD23 &amp;&amp; @20KLA20CR201-B01_XN25==0 ) || (!@20KLA20CR202-B01_XD23 &amp;&amp; @20KLA20CR202-B01_XN25==0 ) || (!@20KLA30CR001-B01_XD23 &amp;&amp; @20KLA30CR001-B01_XN25==0 ) || (!@20KLA30CR201-B01_XD23 &amp;&amp; @20KLA30CR201-B01_XN25==0 ) || (!@20KLA50CR001-B01_XD23 &amp;&amp; @20KLA50CR001-B01_XN25==0 ) || (!@20KLA50CR201-B01_XD23 &amp;&amp; @20KLA50CR201-B01_XN25==0 ) || (!@20KLC11AN011_XD23 &amp;&amp; @20KLC11AN011_XN25==0 ) || (!@20KLC11CR001-B01_XD23 &amp;&amp; @20KLC11CR001-B01_XN25==0 ) || (!@20KLC21AN011_XD23 &amp;&amp; @20KLC21AN011_XN25==0 ) || (!@20KLC21CR001-B01_XD23 &amp;&amp; @20KLC21CR001-B01_XN25==0 ) || (!@20KLC31AN011_XD23 &amp;&amp; @20KLC31AN011_XN25==0 ) || (!@20KLC31CR001-B01_XD23 &amp;&amp; @20KLC31CR001-B01_XN25==0 ) || (!@20KLC41AN011_XD23 &amp;&amp; @20KLC41AN011_XN25==0 ) || (!@20KLC41CR001-B01_XD23 &amp;&amp; @20KLC41CR001-B01_XN25==0 ) || (!@20KLD10CR001-B01_XD23 &amp;&amp; @20KLD10CR001-B01_XN25==0 ) || (!@20KLD10CR002-B01_XD23 &amp;&amp; @20KLD10CR002-B01_XN25==0 ) || (!@20KLD10CR003-B01_XD23 &amp;&amp; @20KLD10CR003-B01_XN25==0 ) || (!@20KLD10CR201-B01_XD23 &amp;&amp; @20KLD10CR201-B01_XN25==0 ) || (!@20KLD20CR001-B01_XD23 &amp;&amp; @20KLD20CR001-B01_XN25==0 ) || (!@20KLD20CR002-B01_XD23 &amp;&amp; @20KLD20CR002-B01_XN25==0 ) || (!@20KLD20CR003-B01_XD23 &amp;&amp; @20KLD20CR003-B01_XN25==0 ) || (!@20KLD20CR201-B01_XD23 &amp;&amp; @20KLD20CR201-B01_XN25==0 ) || (!@20KLE20CR001-B01_XD23 &amp;&amp; @20KLE20CR001-B01_XN25==0 ) || (!@20KLE20CR002-B01_XD23 &amp;&amp; @20KLE20CR002-B01_XN25==0 ) || (!@20KLE20CR003-B01_XD23 &amp;&amp; @20KLE20CR003-B01_XN25==0 ) || (!@20KLE20CR004-B01_XD23 &amp;&amp; @20KLE20CR004-B01_XN25==0 ) || (!@20KLE20CR005-B01_XD23 &amp;&amp; @20KLE20CR005-B01_XN25==0 ) || (!@20KLE20CR006-B01_XD23 &amp;&amp; @20KLE20CR006-B01_XN25==0 ) || (!@20KLE20CR007-B01_XD23 &amp;&amp; @20KLE20CR007-B01_XN25==0 ) || (!@20KLE20CR008-B01_XD23 &amp;&amp; @20KLE20CR008-B01_XN25==0 ) || (!@20KLE20CR009-B01_XD23 &amp;&amp; @20KLE20CR009-B01_XN25==0 ) || (!@20KLE20CR010-B01_XD23 &amp;&amp; @20KLE20CR010-B01_XN25==0 ) || (!@20KLT20CR001-B01_XD23 &amp;&amp; @20KLT20CR001-B01_XN25==0 ) || (!@20KPF40CR001-B01_XD23 &amp;&amp; @20KPF40CR001-B01_XN25==0 ) || (!@20KPF40CR002-B01_XD23 &amp;&amp; @20KPF40CR002-B01_XN25==0 ) || (!@20KPL30CR001-B01_XD23 &amp;&amp; @20KPL30CR001-B01_XN25==0 ) || (!@20KPL30CR201-B01_XD23 &amp;&amp; @20KPL30CR201-B01_XN25==0 ) || (!@20KPL31CR201-B01_XD23 &amp;&amp; @20KPL31CR201-B01_XN25==0 ) || (!@20KPL31CR202-B01_XD23 &amp;&amp; @20KPL31CR202-B01_XN25==0 ) || (!@20KPL32CR201-B01_XD23 &amp;&amp; @20KPL32CR201-B01_XN25==0 ) || (!@20KPL32CR202-B01_XD23 &amp;&amp; @20KPL32CR202-B01_XN25==0 ) || (!@20KPL70CR001-B01_XD23 &amp;&amp; @20KPL70CR001-B01_XN25==0 ) || (!@20KPL70CR002-B01_XD23 &amp;&amp; @20KPL70CR002-B01_XN25==0 ) || (!@20KUB01CR001-B01_XD23 &amp;&amp; @20KUB01CR001-B01_XN25==0 ) || (!@20KUB01CR002-B01_XD23 &amp;&amp; @20KUB01CR002-B01_XN25==0 ) || (!@20KUB01CR003-B01_XD23 &amp;&amp; @20KUB01CR003-B01_XN25==0 ) || (!@20LBA10CR001-B01_XD23 &amp;&amp; @20LBA10CR001-B01_XN25==0 ) || (!@20LBA20CR001-B01_XD23 &amp;&amp; @20LBA20CR001-B01_XN25==0 ) || (!@20LBA30CR001-B01_XD23 &amp;&amp; @20LBA30CR001-B01_XN25==0 ) || (!@20LBA40CR001-B01_XD23 &amp;&amp; @20LBA40CR001-B01_XN25==0 ) || (!@20LCN30CR001-B01_XD23 &amp;&amp; @20LCN30CR001-B01_XN25==0 ) || (!@20LCQ15CR001-B01_XD23 &amp;&amp; @20LCQ15CR001-B01_XN25==0 ) || (!@20LCQ25CR001-B01_XD23 &amp;&amp; @20LCQ25CR001-B01_XN25==0 ) || (!@20LCQ35CR001-B01_XD23 &amp;&amp; @20LCQ35CR001-B01_XN25==0 ) || (!@20LCQ45CR001-B01_XD23 &amp;&amp; @20LCQ45CR001-B01_XN25==0 ) || (!@20PEB11CR001-B01_XD23 &amp;&amp; @20PEB11CR001-B01_XN25==0 ) || (!@20PEB12CR001-B01_XD23 &amp;&amp; @20PEB12CR001-B01_XN25==0 ) || (!@20PEB21CR001-B01_XD23 &amp;&amp; @20PEB21CR001-B01_XN25==0 ) || (!@20PEB22CR001-B01_XD23 &amp;&amp; @20PEB22CR001-B01_XN25==0 ) || (!@20PEB31CR001-B01_XD23 &amp;&amp; @20PEB31CR001-B01_XN25==0 ) || (!@20PEB32CR001-B01_XD23 &amp;&amp; @20PEB32CR001-B01_XN25==0 ) || (!@20PEB41CR001-B01_XD23 &amp;&amp; @20PEB41CR001-B01_XN25==0 ) || (!@20PEB42CR001-B01_XD23 &amp;&amp; @20PEB42CR001-B01_XN25==0 ) || (!@20SAC10CR001-B01_XD23 &amp;&amp; @20SAC10CR001-B01_XN25==0 ) || (!@20SAC20CR001-B01_XD23 &amp;&amp; @20SAC20CR001-B01_XN25==0 ) || (!@20SAC40CR001-B01_XD23 &amp;&amp; @20SAC40CR001-B01_XN25==0 ) || (!@20UJA00CR001-B01_XD23 &amp;&amp; @20UJA00CR001-B01_XN25==0 ) || (!@20UJA00CR002-B01_XD23 &amp;&amp; @20UJA00CR002-B01_XN25==0 ) || (!@20UJA26CR001-B01_XD23 &amp;&amp; @20UJA26CR001-B01_XN25==0 ) || (!@20UJA26CR002-B01_XD23 &amp;&amp; @20UJA26CR002-B01_XN25==0 ) || (!@20UJA26CR006-B01_XD23 &amp;&amp; @20UJA26CR006-B01_XN25==0 ) || (!@20UKH12CR001-B01_XD23 &amp;&amp; @20UKH12CR001-B01_XN25==0 ) || (!@20UKH12CR002-B01_XD23 &amp;&amp; @20UKH12CR002-B01_XN25==0 ) || (!@20UKH12CR003-B01_XD23 &amp;&amp; @20UKH12CR003-B01_XN25==0 ) || (!@20UKH12CR004-B01_XD23 &amp;&amp; @20UKH12CR004-B01_XN25==0 ) || (!@20UKH12CR005-B01_XD23 &amp;&amp; @20UKH12CR005-B01_XN25==0 ) || (!@20UKH12CR006-B01_XD23 &amp;&amp; @20UKH12CR006-B01_XN25==0 ) || (!@20UKH12CR007-B01_XD23 &amp;&amp; @20UKH12CR007-B01_XN25==0 ) || (!@20UKH12CR008-B01_XD23 &amp;&amp; @20UKH12CR008-B01_XN25==0 ) || (!@20UKH12CR009-B01_XD23 &amp;&amp; @20UKH12CR009-B01_XN25==0 ) || (!@20UKH12CR010-B01_XD23 &amp;&amp; @20UKH12CR010-B01_XN25==0 ) || (!@20UKH12CR011-B01_XD23 &amp;&amp; @20UKH12CR011-B01_XN25==0 ) || (!@20UKH12CR012-B01_XD23 &amp;&amp; @20UKH12CR012-B01_XN25==0 )"
+           templatename="Z01FAIL" />
+        <nsstringconst
+           id="nsstringconst12238-5"
+           humname="ОБЩ_АВАРИЙНАЯ_УСТАВКА"
+           req="0"
+           desc="Обобщенное нарушение аварийных уставок в видеокадре"
+           name="(@00GRK17CR001-B01_XH45 &amp;&amp; @00GRK17CR001-B01_XD23 &amp;&amp; @00GRK17CR001-B01_XN25==0 &amp;&amp; @00GRK17CR001-B01_XN27==0 ) || (@20FAK10CR001-B01_XH45 &amp;&amp; @20FAK10CR001-B01_XD23 &amp;&amp; @20FAK10CR001-B01_XN25==0 &amp;&amp; @20FAK10CR001-B01_XN27==0 ) || (@20FAK40CR001-B01_XH45 &amp;&amp; @20FAK40CR001-B01_XD23 &amp;&amp; @20FAK40CR001-B01_XN25==0 &amp;&amp; @20FAK40CR001-B01_XN27==0 ) || (@20JNG10CR001-B01_XH45 &amp;&amp; @20JNG10CR001-B01_XD23 &amp;&amp; @20JNG10CR001-B01_XN25==0 &amp;&amp; @20JNG10CR001-B01_XN27==0 ) || (@20JNG10CR002-B01_XH45 &amp;&amp; @20JNG10CR002-B01_XD23 &amp;&amp; @20JNG10CR002-B01_XN25==0 ) || (@20JNG20CR001-B01_XH45 &amp;&amp; @20JNG20CR001-B01_XD23 &amp;&amp; @20JNG20CR001-B01_XN25==0 &amp;&amp; @20JNG20CR001-B01_XN27==0 ) || (@20JNG20CR002-B01_XH45 &amp;&amp; @20JNG20CR002-B01_XD23 &amp;&amp; @20JNG20CR002-B01_XN25==0 ) || (@20JNG30CR001-B01_XH45 &amp;&amp; @20JNG30CR001-B01_XD23 &amp;&amp; @20JNG30CR001-B01_XN25==0 &amp;&amp; @20JNG30CR001-B01_XN27==0 ) || (@20JNG30CR002-B01_XH45 &amp;&amp; @20JNG30CR002-B01_XD23 &amp;&amp; @20JNG30CR002-B01_XN25==0 ) || (@20JNG40CR001-B01_XH45 &amp;&amp; @20JNG40CR001-B01_XD23 &amp;&amp; @20JNG40CR001-B01_XN25==0 &amp;&amp; @20JNG40CR001-B01_XN27==0 ) || (@20JNG40CR002-B01_XH45 &amp;&amp; @20JNG40CR002-B01_XD23 &amp;&amp; @20JNG40CR002-B01_XN25==0 ) || (@20KAA10CR001-B01_XH45 &amp;&amp; @20KAA10CR001-B01_XD23 &amp;&amp; @20KAA10CR001-B01_XN25==0 &amp;&amp; @20KAA10CR001-B01_XN27==0 ) || (@20KAA20CR001-B01_XH45 &amp;&amp; @20KAA20CR001-B01_XD23 &amp;&amp; @20KAA20CR001-B01_XN25==0 &amp;&amp; @20KAA20CR001-B01_XN27==0 ) || (@20KAA30CR001-B01_XH45 &amp;&amp; @20KAA30CR001-B01_XD23 &amp;&amp; @20KAA30CR001-B01_XN25==0 &amp;&amp; @20KAA30CR001-B01_XN27==0 ) || (@20KAA40CR001-B01_XH45 &amp;&amp; @20KAA40CR001-B01_XD23 &amp;&amp; @20KAA40CR001-B01_XN25==0 &amp;&amp; @20KAA40CR001-B01_XN27==0 ) || (@20KAB50CR001-B01_XH45 &amp;&amp; @20KAB50CR001-B01_XD23 &amp;&amp; @20KAB50CR001-B01_XN25==0 &amp;&amp; @20KAB50CR001-B01_XN27==0 ) || (@20KAB60CR001-B01_XH45 &amp;&amp; @20KAB60CR001-B01_XD23 &amp;&amp; @20KAB60CR001-B01_XN25==0 &amp;&amp; @20KAB60CR001-B01_XN27==0 ) || (@20KBE10CR201-B01_XH45 &amp;&amp; @20KBE10CR201-B01_XD23 &amp;&amp; @20KBE10CR201-B01_XN25==0 ) || (@20KBE10CR202-B01_XH45 &amp;&amp; @20KBE10CR202-B01_XD23 &amp;&amp; @20KBE10CR202-B01_XN25==0 ) || (@20KBE50CR201-B01_XH45 &amp;&amp; @20KBE50CR201-B01_XD23 &amp;&amp; @20KBE50CR201-B01_XN25==0 ) || (@20KLA10CR001-B01_XH45 &amp;&amp; @20KLA10CR001-B01_XD23 &amp;&amp; @20KLA10CR001-B01_XN25==0 &amp;&amp; @20KLA10CR001-B01_XN27==0 ) || (@20KLA10CR201-B01_XH45 &amp;&amp; @20KLA10CR201-B01_XD23 &amp;&amp; @20KLA10CR201-B01_XN25==0 ) || (@20KLA20CR001-B01_XH45 &amp;&amp; @20KLA20CR001-B01_XD23 &amp;&amp; @20KLA20CR001-B01_XN25==0 &amp;&amp; @20KLA20CR001-B01_XN27==0 ) || (@20KLA20CR002-B01_XH45 &amp;&amp; @20KLA20CR002-B01_XD23 &amp;&amp; @20KLA20CR002-B01_XN25==0 &amp;&amp; @20KLA20CR002-B01_XN27==0 ) || (@20KLA20CR201-B01_XH45 &amp;&amp; @20KLA20CR201-B01_XD23 &amp;&amp; @20KLA20CR201-B01_XN25==0 ) || (@20KLA20CR202-B01_XH45 &amp;&amp; @20KLA20CR202-B01_XD23 &amp;&amp; @20KLA20CR202-B01_XN25==0 ) || (@20KLA30CR001-B01_XH45 &amp;&amp; @20KLA30CR001-B01_XD23 &amp;&amp; @20KLA30CR001-B01_XN25==0 &amp;&amp; @20KLA30CR001-B01_XN27==0 ) || (@20KLA30CR201-B01_XH45 &amp;&amp; @20KLA30CR201-B01_XD23 &amp;&amp; @20KLA30CR201-B01_XN25==0 ) || (@20KLA50CR001-B01_XH45 &amp;&amp; @20KLA50CR001-B01_XD23 &amp;&amp; @20KLA50CR001-B01_XN25==0 &amp;&amp; @20KLA50CR001-B01_XN27==0 ) || (@20KLA50CR201-B01_XH45 &amp;&amp; @20KLA50CR201-B01_XD23 &amp;&amp; @20KLA50CR201-B01_XN25==0 ) || (@20KLC11CR001-B01_XH45 &amp;&amp; @20KLC11CR001-B01_XD23 &amp;&amp; @20KLC11CR001-B01_XN25==0 &amp;&amp; @20KLC11CR001-B01_XN27==0 ) || (@20KLC21CR001-B01_XH45 &amp;&amp; @20KLC21CR001-B01_XD23 &amp;&amp; @20KLC21CR001-B01_XN25==0 &amp;&amp; @20KLC21CR001-B01_XN27==0 ) || (@20KLC31CR001-B01_XH45 &amp;&amp; @20KLC31CR001-B01_XD23 &amp;&amp; @20KLC31CR001-B01_XN25==0 &amp;&amp; @20KLC31CR001-B01_XN27==0 ) || (@20KLC41CR001-B01_XH45 &amp;&amp; @20KLC41CR001-B01_XD23 &amp;&amp; @20KLC41CR001-B01_XN25==0 &amp;&amp; @20KLC41CR001-B01_XN27==0 ) || (@20KLD10CR001-B01_XH45 &amp;&amp; @20KLD10CR001-B01_XD23 &amp;&amp; @20KLD10CR001-B01_XN25==0 &amp;&amp; @20KLD10CR001-B01_XN27==0 ) || (@20KLD10CR002-B01_XH45 &amp;&amp; @20KLD10CR002-B01_XD23 &amp;&amp; @20KLD10CR002-B01_XN25==0 &amp;&amp; @20KLD10CR002-B01_XN27==0 ) || (@20KLD10CR003-B01_XH45 &amp;&amp; @20KLD10CR003-B01_XD23 &amp;&amp; @20KLD10CR003-B01_XN25==0 &amp;&amp; @20KLD10CR003-B01_XN27==0 ) || (@20KLD10CR201-B01_XH45 &amp;&amp; @20KLD10CR201-B01_XD23 &amp;&amp; @20KLD10CR201-B01_XN25==0 ) || (@20KLD20CR001-B01_XH45 &amp;&amp; @20KLD20CR001-B01_XD23 &amp;&amp; @20KLD20CR001-B01_XN25==0 &amp;&amp; @20KLD20CR001-B01_XN27==0 ) || (@20KLD20CR002-B01_XH45 &amp;&amp; @20KLD20CR002-B01_XD23 &amp;&amp; @20KLD20CR002-B01_XN25==0 &amp;&amp; @20KLD20CR002-B01_XN27==0 ) || (@20KLD20CR003-B01_XH45 &amp;&amp; @20KLD20CR003-B01_XD23 &amp;&amp; @20KLD20CR003-B01_XN25==0 &amp;&amp; @20KLD20CR003-B01_XN27==0 ) || (@20KLD20CR201-B01_XH45 &amp;&amp; @20KLD20CR201-B01_XD23 &amp;&amp; @20KLD20CR201-B01_XN25==0 ) || (@20KLE20CR001-B01_XH45 &amp;&amp; @20KLE20CR001-B01_XD23 &amp;&amp; @20KLE20CR001-B01_XN25==0 &amp;&amp; @20KLE20CR001-B01_XN27==0 ) || (@20KLE20CR002-B01_XH45 &amp;&amp; @20KLE20CR002-B01_XD23 &amp;&amp; @20KLE20CR002-B01_XN25==0 &amp;&amp; @20KLE20CR002-B01_XN27==0 ) || (@20KLE20CR003-B01_XH45 &amp;&amp; @20KLE20CR003-B01_XD23 &amp;&amp; @20KLE20CR003-B01_XN25==0 &amp;&amp; @20KLE20CR003-B01_XN27==0 ) || (@20KLE20CR004-B01_XH45 &amp;&amp; @20KLE20CR004-B01_XD23 &amp;&amp; @20KLE20CR004-B01_XN25==0 &amp;&amp; @20KLE20CR004-B01_XN27==0 ) || (@20KLE20CR005-B01_XH45 &amp;&amp; @20KLE20CR005-B01_XD23 &amp;&amp; @20KLE20CR005-B01_XN25==0 &amp;&amp; @20KLE20CR005-B01_XN27==0 ) || (@20KLE20CR006-B01_XH45 &amp;&amp; @20KLE20CR006-B01_XD23 &amp;&amp; @20KLE20CR006-B01_XN25==0 &amp;&amp; @20KLE20CR006-B01_XN27==0 ) || (@20KLE20CR007-B01_XH45 &amp;&amp; @20KLE20CR007-B01_XD23 &amp;&amp; @20KLE20CR007-B01_XN25==0 &amp;&amp; @20KLE20CR007-B01_XN27==0 ) || (@20KLE20CR008-B01_XH45 &amp;&amp; @20KLE20CR008-B01_XD23 &amp;&amp; @20KLE20CR008-B01_XN25==0 &amp;&amp; @20KLE20CR008-B01_XN27==0 ) || (@20KLE20CR009-B01_XH45 &amp;&amp; @20KLE20CR009-B01_XD23 &amp;&amp; @20KLE20CR009-B01_XN25==0 &amp;&amp; @20KLE20CR009-B01_XN27==0 ) || (@20KLE20CR010-B01_XH45 &amp;&amp; @20KLE20CR010-B01_XD23 &amp;&amp; @20KLE20CR010-B01_XN25==0 &amp;&amp; @20KLE20CR010-B01_XN27==0 ) || (@20KLT20CR001-B01_XH45 &amp;&amp; @20KLT20CR001-B01_XD23 &amp;&amp; @20KLT20CR001-B01_XN25==0 &amp;&amp; @20KLT20CR001-B01_XN27==0 ) || (@20KPF40CR001-B01_XH45 &amp;&amp; @20KPF40CR001-B01_XD23 &amp;&amp; @20KPF40CR001-B01_XN25==0 &amp;&amp; @20KPF40CR001-B01_XN27==0 ) || (@20KPF40CR002-B01_XH45 &amp;&amp; @20KPF40CR002-B01_XD23 &amp;&amp; @20KPF40CR002-B01_XN25==0 &amp;&amp; @20KPF40CR002-B01_XN27==0 ) || (@20KPL30CR001-B01_XH45 &amp;&amp; @20KPL30CR001-B01_XD23 &amp;&amp; @20KPL30CR001-B01_XN25==0 &amp;&amp; @20KPL30CR001-B01_XN27==0 ) || (@20KPL30CR201-B01_XH45 &amp;&amp; @20KPL30CR201-B01_XD23 &amp;&amp; @20KPL30CR201-B01_XN25==0 ) || (@20KPL31CR201-B01_XH45 &amp;&amp; @20KPL31CR201-B01_XD23 &amp;&amp; @20KPL31CR201-B01_XN25==0 ) || (@20KPL31CR202-B01_XH45 &amp;&amp; @20KPL31CR202-B01_XD23 &amp;&amp; @20KPL31CR202-B01_XN25==0 ) || (@20KPL32CR201-B01_XH45 &amp;&amp; @20KPL32CR201-B01_XD23 &amp;&amp; @20KPL32CR201-B01_XN25==0 ) || (@20KPL32CR202-B01_XH45 &amp;&amp; @20KPL32CR202-B01_XD23 &amp;&amp; @20KPL32CR202-B01_XN25==0 ) || (@20KPL70CR001-B01_XH45 &amp;&amp; @20KPL70CR001-B01_XD23 &amp;&amp; @20KPL70CR001-B01_XN25==0 &amp;&amp; @20KPL70CR001-B01_XN27==0 ) || (@20KPL70CR002-B01_XH45 &amp;&amp; @20KPL70CR002-B01_XD23 &amp;&amp; @20KPL70CR002-B01_XN25==0 &amp;&amp; @20KPL70CR002-B01_XN27==0 ) || (@20KUB01CR001-B01_XH45 &amp;&amp; @20KUB01CR001-B01_XD23 &amp;&amp; @20KUB01CR001-B01_XN25==0 &amp;&amp; @20KUB01CR001-B01_XN27==0 ) || (@20KUB01CR002-B01_XH45 &amp;&amp; @20KUB01CR002-B01_XD23 &amp;&amp; @20KUB01CR002-B01_XN25==0 &amp;&amp; @20KUB01CR002-B01_XN27==0 ) || (@20KUB01CR003-B01_XH45 &amp;&amp; @20KUB01CR003-B01_XD23 &amp;&amp; @20KUB01CR003-B01_XN25==0 &amp;&amp; @20KUB01CR003-B01_XN27==0 ) || (@20LBA10CR001-B01_XH45 &amp;&amp; @20LBA10CR001-B01_XD23 &amp;&amp; @20LBA10CR001-B01_XN25==0 &amp;&amp; @20LBA10CR001-B01_XN27==0 ) || (@20LBA20CR001-B01_XH45 &amp;&amp; @20LBA20CR001-B01_XD23 &amp;&amp; @20LBA20CR001-B01_XN25==0 &amp;&amp; @20LBA20CR001-B01_XN27==0 ) || (@20LBA30CR001-B01_XH45 &amp;&amp; @20LBA30CR001-B01_XD23 &amp;&amp; @20LBA30CR001-B01_XN25==0 &amp;&amp; @20LBA30CR001-B01_XN27==0 ) || (@20LBA40CR001-B01_XH45 &amp;&amp; @20LBA40CR001-B01_XD23 &amp;&amp; @20LBA40CR001-B01_XN25==0 &amp;&amp; @20LBA40CR001-B01_XN27==0 ) || (@20LCN30CR001-B01_XH45 &amp;&amp; @20LCN30CR001-B01_XD23 &amp;&amp; @20LCN30CR001-B01_XN25==0 &amp;&amp; @20LCN30CR001-B01_XN27==0 ) || (@20LCQ15CR001-B01_XH45 &amp;&amp; @20LCQ15CR001-B01_XD23 &amp;&amp; @20LCQ15CR001-B01_XN25==0 &amp;&amp; @20LCQ15CR001-B01_XN27==0 ) || (@20LCQ25CR001-B01_XH45 &amp;&amp; @20LCQ25CR001-B01_XD23 &amp;&amp; @20LCQ25CR001-B01_XN25==0 &amp;&amp; @20LCQ25CR001-B01_XN27==0 ) || (@20LCQ35CR001-B01_XH45 &amp;&amp; @20LCQ35CR001-B01_XD23 &amp;&amp; @20LCQ35CR001-B01_XN25==0 &amp;&amp; @20LCQ35CR001-B01_XN27==0 ) || (@20LCQ45CR001-B01_XH45 &amp;&amp; @20LCQ45CR001-B01_XD23 &amp;&amp; @20LCQ45CR001-B01_XN25==0 &amp;&amp; @20LCQ45CR001-B01_XN27==0 ) || (@20PEB11CR001-B01_XH45 &amp;&amp; @20PEB11CR001-B01_XD23 &amp;&amp; @20PEB11CR001-B01_XN25==0 &amp;&amp; @20PEB11CR001-B01_XN27==0 ) || (@20PEB12CR001-B01_XH45 &amp;&amp; @20PEB12CR001-B01_XD23 &amp;&amp; @20PEB12CR001-B01_XN25==0 &amp;&amp; @20PEB12CR001-B01_XN27==0 ) || (@20PEB21CR001-B01_XH45 &amp;&amp; @20PEB21CR001-B01_XD23 &amp;&amp; @20PEB21CR001-B01_XN25==0 &amp;&amp; @20PEB21CR001-B01_XN27==0 ) || (@20PEB22CR001-B01_XH45 &amp;&amp; @20PEB22CR001-B01_XD23 &amp;&amp; @20PEB22CR001-B01_XN25==0 &amp;&amp; @20PEB22CR001-B01_XN27==0 ) || (@20PEB31CR001-B01_XH45 &amp;&amp; @20PEB31CR001-B01_XD23 &amp;&amp; @20PEB31CR001-B01_XN25==0 &amp;&amp; @20PEB31CR001-B01_XN27==0 ) || (@20PEB32CR001-B01_XH45 &amp;&amp; @20PEB32CR001-B01_XD23 &amp;&amp; @20PEB32CR001-B01_XN25==0 &amp;&amp; @20PEB32CR001-B01_XN27==0 ) || (@20PEB41CR001-B01_XH45 &amp;&amp; @20PEB41CR001-B01_XD23 &amp;&amp; @20PEB41CR001-B01_XN25==0 &amp;&amp; @20PEB41CR001-B01_XN27==0 ) || (@20PEB42CR001-B01_XH45 &amp;&amp; @20PEB42CR001-B01_XD23 &amp;&amp; @20PEB42CR001-B01_XN25==0 &amp;&amp; @20PEB42CR001-B01_XN27==0 ) || (@20SAC10CR001-B01_XH45 &amp;&amp; @20SAC10CR001-B01_XD23 &amp;&amp; @20SAC10CR001-B01_XN25==0 ) || (@20SAC20CR001-B01_XH45 &amp;&amp; @20SAC20CR001-B01_XD23 &amp;&amp; @20SAC20CR001-B01_XN25==0 ) || (@20SAC40CR001-B01_XH45 &amp;&amp; @20SAC40CR001-B01_XD23 &amp;&amp; @20SAC40CR001-B01_XN25==0 ) || (@20UJA00CR001-B01_XH45 &amp;&amp; @20UJA00CR001-B01_XD23 &amp;&amp; @20UJA00CR001-B01_XN25==0 &amp;&amp; @20UJA00CR001-B01_XN27==0 ) || (@20UJA00CR002-B01_XH45 &amp;&amp; @20UJA00CR002-B01_XD23 &amp;&amp; @20UJA00CR002-B01_XN25==0 &amp;&amp; @20UJA00CR002-B01_XN27==0 ) || (@20UJA26CR001-B01_XH45 &amp;&amp; @20UJA26CR001-B01_XD23 &amp;&amp; @20UJA26CR001-B01_XN25==0 &amp;&amp; @20UJA26CR001-B01_XN27==0 ) || (@20UJA26CR002-B01_XH45 &amp;&amp; @20UJA26CR002-B01_XD23 &amp;&amp; @20UJA26CR002-B01_XN25==0 &amp;&amp; @20UJA26CR002-B01_XN27==0 ) || (@20UJA26CR006-B01_XH45 &amp;&amp; @20UJA26CR006-B01_XD23 &amp;&amp; @20UJA26CR006-B01_XN25==0 ) || (@20UKH12CR001-B01_XH45 &amp;&amp; @20UKH12CR001-B01_XD23 &amp;&amp; @20UKH12CR001-B01_XN25==0 &amp;&amp; @20UKH12CR001-B01_XN27==0 ) || (@20UKH12CR002-B01_XH45 &amp;&amp; @20UKH12CR002-B01_XD23 &amp;&amp; @20UKH12CR002-B01_XN25==0 &amp;&amp; @20UKH12CR002-B01_XN27==0 ) || (@20UKH12CR003-B01_XH45 &amp;&amp; @20UKH12CR003-B01_XD23 &amp;&amp; @20UKH12CR003-B01_XN25==0 &amp;&amp; @20UKH12CR003-B01_XN27==0 ) || (@20UKH12CR004-B01_XH45 &amp;&amp; @20UKH12CR004-B01_XD23 &amp;&amp; @20UKH12CR004-B01_XN25==0 ) || (@20UKH12CR005-B01_XH45 &amp;&amp; @20UKH12CR005-B01_XD23 &amp;&amp; @20UKH12CR005-B01_XN25==0 &amp;&amp; @20UKH12CR005-B01_XN27==0 ) || (@20UKH12CR006-B01_XH45 &amp;&amp; @20UKH12CR006-B01_XD23 &amp;&amp; @20UKH12CR006-B01_XN25==0 &amp;&amp; @20UKH12CR006-B01_XN27==0 ) || (@20UKH12CR007-B01_XH45 &amp;&amp; @20UKH12CR007-B01_XD23 &amp;&amp; @20UKH12CR007-B01_XN25==0 &amp;&amp; @20UKH12CR007-B01_XN27==0 ) || (@20UKH12CR008-B01_XH45 &amp;&amp; @20UKH12CR008-B01_XD23 &amp;&amp; @20UKH12CR008-B01_XN25==0 ) || (@20UKH12CR009-B01_XH45 &amp;&amp; @20UKH12CR009-B01_XD23 &amp;&amp; @20UKH12CR009-B01_XN25==0 &amp;&amp; @20UKH12CR009-B01_XN27==0 ) || (@20UKH12CR010-B01_XH45 &amp;&amp; @20UKH12CR010-B01_XD23 &amp;&amp; @20UKH12CR010-B01_XN25==0 &amp;&amp; @20UKH12CR010-B01_XN27==0 ) || (@20UKH12CR011-B01_XH45 &amp;&amp; @20UKH12CR011-B01_XD23 &amp;&amp; @20UKH12CR011-B01_XN25==0 &amp;&amp; @20UKH12CR011-B01_XN27==0 ) || (@20UKH12CR012-B01_XH45 &amp;&amp; @20UKH12CR012-B01_XD23 &amp;&amp; @20UKH12CR012-B01_XN25==0 )"
+           templatename="Z02EMERG" />
+        <nsstringconst
+           id="nsstringconst12240-7"
+           humname="ОБЩ_КОНТРОЛЬНАЯ_УСТАВКА"
+           req="0"
+           desc="Обобщенное нарушение контрольных уровней в видеокадре"
+           name="(@00GRK17CR001-B01_XH43 &amp;&amp; @00GRK17CR001-B01_XD23 &amp;&amp; @00GRK17CR001-B01_XN25==0 &amp;&amp; @00GRK17CR001-B01_XN27==0 ) || (@20CFP21CR001_XH43 &amp;&amp; @20CFP21CR001_XD23 ) || (@20CFP21CR003_XH43 &amp;&amp; @20CFP21CR003_XD23 ) || (@20CFP21CR004_XH43 &amp;&amp; @20CFP21CR004_XD23 ) || (@20CFP21CR005_XH43 &amp;&amp; @20CFP21CR005_XD23 ) || (@20CFP21CR006_XH43 &amp;&amp; @20CFP21CR006_XD23 ) || (@20CFP21CR007_XH43 &amp;&amp; @20CFP21CR007_XD23 ) || (@20CFP21CR008_XH43 &amp;&amp; @20CFP21CR008_XD23 ) || (@20CFP21CR009_XH43 &amp;&amp; @20CFP21CR009_XD23 ) || (@20CFP21CR010_XH43 &amp;&amp; @20CFP21CR010_XD23 ) || (@20CFP21CR011_XH43 &amp;&amp; @20CFP21CR011_XD23 ) || (@20CFP21CR012_XH43 &amp;&amp; @20CFP21CR012_XD23 ) || (@20FAK10CR001-B01_XH43 &amp;&amp; @20FAK10CR001-B01_XD23 &amp;&amp; @20FAK10CR001-B01_XN25==0 &amp;&amp; @20FAK10CR001-B01_XN27==0 ) || (@20FAK40CR001-B01_XH43 &amp;&amp; @20FAK40CR001-B01_XD23 &amp;&amp; @20FAK40CR001-B01_XN25==0 &amp;&amp; @20FAK40CR001-B01_XN27==0 ) || (@20GUA11CR001-B01_XH43 &amp;&amp; @20GUA11CR001-B01_XD23 &amp;&amp; @20GUA11CR001-B01_XN25==0 &amp;&amp; @20GUA11CR001-B01_XN27==0 ) || (@20GUA12CR001-B01_XH43 &amp;&amp; @20GUA12CR001-B01_XD23 &amp;&amp; @20GUA12CR001-B01_XN25==0 &amp;&amp; @20GUA12CR001-B01_XN27==0 ) || (@20JNG10CR001-B01_XH43 &amp;&amp; @20JNG10CR001-B01_XD23 &amp;&amp; @20JNG10CR001-B01_XN25==0 &amp;&amp; @20JNG10CR001-B01_XN27==0 ) || (@20JNG20CR001-B01_XH43 &amp;&amp; @20JNG20CR001-B01_XD23 &amp;&amp; @20JNG20CR001-B01_XN25==0 &amp;&amp; @20JNG20CR001-B01_XN27==0 ) || (@20JNG30CR001-B01_XH43 &amp;&amp; @20JNG30CR001-B01_XD23 &amp;&amp; @20JNG30CR001-B01_XN25==0 &amp;&amp; @20JNG30CR001-B01_XN27==0 ) || (@20JNG40CR001-B01_XH43 &amp;&amp; @20JNG40CR001-B01_XD23 &amp;&amp; @20JNG40CR001-B01_XN25==0 &amp;&amp; @20JNG40CR001-B01_XN27==0 ) || (@20KAA10CR001-B01_XH43 &amp;&amp; @20KAA10CR001-B01_XD23 &amp;&amp; @20KAA10CR001-B01_XN25==0 &amp;&amp; @20KAA10CR001-B01_XN27==0 ) || (@20KAA20CR001-B01_XH43 &amp;&amp; @20KAA20CR001-B01_XD23 &amp;&amp; @20KAA20CR001-B01_XN25==0 &amp;&amp; @20KAA20CR001-B01_XN27==0 ) || (@20KAA30CR001-B01_XH43 &amp;&amp; @20KAA30CR001-B01_XD23 &amp;&amp; @20KAA30CR001-B01_XN25==0 &amp;&amp; @20KAA30CR001-B01_XN27==0 ) || (@20KAA40CR001-B01_XH43 &amp;&amp; @20KAA40CR001-B01_XD23 &amp;&amp; @20KAA40CR001-B01_XN25==0 &amp;&amp; @20KAA40CR001-B01_XN27==0 ) || (@20KAB50CR001-B01_XH43 &amp;&amp; @20KAB50CR001-B01_XD23 &amp;&amp; @20KAB50CR001-B01_XN25==0 &amp;&amp; @20KAB50CR001-B01_XN27==0 ) || (@20KAB60CR001-B01_XH43 &amp;&amp; @20KAB60CR001-B01_XD23 &amp;&amp; @20KAB60CR001-B01_XN25==0 &amp;&amp; @20KAB60CR001-B01_XN27==0 ) || (@20KBE10CR201-B01_XH43 &amp;&amp; @20KBE10CR201-B01_XD23 &amp;&amp; @20KBE10CR201-B01_XN25==0) || (@20KBE10CR202-B01_XH43 &amp;&amp; @20KBE10CR202-B01_XD23 &amp;&amp; @20KBE10CR202-B01_XN25==0) || (@20KBE50CR201-B01_XH43 &amp;&amp; @20KBE50CR201-B01_XD23 &amp;&amp; @20KBE50CR201-B01_XN25==0) || (@20KLA10CR001-B01_XH43 &amp;&amp; @20KLA10CR001-B01_XD23 &amp;&amp; @20KLA10CR001-B01_XN25==0 &amp;&amp; @20KLA10CR001-B01_XN27==0 ) || (@20KLA10CR201-B01_XH43 &amp;&amp; @20KLA10CR201-B01_XD23 &amp;&amp; @20KLA10CR201-B01_XN25==0) || (@20KLA20CR001-B01_XH43 &amp;&amp; @20KLA20CR001-B01_XD23 &amp;&amp; @20KLA20CR001-B01_XN25==0 &amp;&amp; @20KLA20CR001-B01_XN27==0 ) || (@20KLA20CR002-B01_XH43 &amp;&amp; @20KLA20CR002-B01_XD23 &amp;&amp; @20KLA20CR002-B01_XN25==0 &amp;&amp; @20KLA20CR002-B01_XN27==0 ) || (@20KLA20CR201-B01_XH43 &amp;&amp; @20KLA20CR201-B01_XD23 &amp;&amp; @20KLA20CR201-B01_XN25==0) || (@20KLA20CR202-B01_XH43 &amp;&amp; @20KLA20CR202-B01_XD23 &amp;&amp; @20KLA20CR202-B01_XN25==0) || (@20KLA30CR001-B01_XH43 &amp;&amp; @20KLA30CR001-B01_XD23 &amp;&amp; @20KLA30CR001-B01_XN25==0 &amp;&amp; @20KLA30CR001-B01_XN27==0 ) || (@20KLA30CR201-B01_XH43 &amp;&amp; @20KLA30CR201-B01_XD23 &amp;&amp; @20KLA30CR201-B01_XN25==0) || (@20KLA50CR001-B01_XH43 &amp;&amp; @20KLA50CR001-B01_XD23 &amp;&amp; @20KLA50CR001-B01_XN25==0 &amp;&amp; @20KLA50CR001-B01_XN27==0 ) || (@20KLA50CR201-B01_XH43 &amp;&amp; @20KLA50CR201-B01_XD23 &amp;&amp; @20KLA50CR201-B01_XN25==0) || (@20KLC11CR001-B01_XH43 &amp;&amp; @20KLC11CR001-B01_XD23 &amp;&amp; @20KLC11CR001-B01_XN25==0 &amp;&amp; @20KLC11CR001-B01_XN27==0 ) || (@20KLC21CR001-B01_XH43 &amp;&amp; @20KLC21CR001-B01_XD23 &amp;&amp; @20KLC21CR001-B01_XN25==0 &amp;&amp; @20KLC21CR001-B01_XN27==0 ) || (@20KLC31CR001-B01_XH43 &amp;&amp; @20KLC31CR001-B01_XD23 &amp;&amp; @20KLC31CR001-B01_XN25==0 &amp;&amp; @20KLC31CR001-B01_XN27==0 ) || (@20KLC41CR001-B01_XH43 &amp;&amp; @20KLC41CR001-B01_XD23 &amp;&amp; @20KLC41CR001-B01_XN25==0 &amp;&amp; @20KLC41CR001-B01_XN27==0 ) || (@20KLD10CR001-B01_XH43 &amp;&amp; @20KLD10CR001-B01_XD23 &amp;&amp; @20KLD10CR001-B01_XN25==0 &amp;&amp; @20KLD10CR001-B01_XN27==0 ) || (@20KLD10CR002-B01_XH43 &amp;&amp; @20KLD10CR002-B01_XD23 &amp;&amp; @20KLD10CR002-B01_XN25==0 &amp;&amp; @20KLD10CR002-B01_XN27==0 ) || (@20KLD10CR003-B01_XH43 &amp;&amp; @20KLD10CR003-B01_XD23 &amp;&amp; @20KLD10CR003-B01_XN25==0 &amp;&amp; @20KLD10CR003-B01_XN27==0 ) || (@20KLD10CR201-B01_XH43 &amp;&amp; @20KLD10CR201-B01_XD23 &amp;&amp; @20KLD10CR201-B01_XN25==0) || (@20KLD20CR001-B01_XH43 &amp;&amp; @20KLD20CR001-B01_XD23 &amp;&amp; @20KLD20CR001-B01_XN25==0 &amp;&amp; @20KLD20CR001-B01_XN27==0 ) || (@20KLD20CR002-B01_XH43 &amp;&amp; @20KLD20CR002-B01_XD23 &amp;&amp; @20KLD20CR002-B01_XN25==0 &amp;&amp; @20KLD20CR002-B01_XN27==0 ) || (@20KLD20CR003-B01_XH43 &amp;&amp; @20KLD20CR003-B01_XD23 &amp;&amp; @20KLD20CR003-B01_XN25==0 &amp;&amp; @20KLD20CR003-B01_XN27==0 ) || (@20KLD20CR201-B01_XH43 &amp;&amp; @20KLD20CR201-B01_XD23 &amp;&amp; @20KLD20CR201-B01_XN25==0) || (@20KLE20CR001-B01_XH43 &amp;&amp; @20KLE20CR001-B01_XD23 &amp;&amp; @20KLE20CR001-B01_XN25==0 &amp;&amp; @20KLE20CR001-B01_XN27==0 ) || (@20KLE20CR002-B01_XH43 &amp;&amp; @20KLE20CR002-B01_XD23 &amp;&amp; @20KLE20CR002-B01_XN25==0 &amp;&amp; @20KLE20CR002-B01_XN27==0 ) || (@20KLE20CR003-B01_XH43 &amp;&amp; @20KLE20CR003-B01_XD23 &amp;&amp; @20KLE20CR003-B01_XN25==0 &amp;&amp; @20KLE20CR003-B01_XN27==0 ) || (@20KLE20CR004-B01_XH43 &amp;&amp; @20KLE20CR004-B01_XD23 &amp;&amp; @20KLE20CR004-B01_XN25==0 &amp;&amp; @20KLE20CR004-B01_XN27==0 ) || (@20KLE20CR005-B01_XH43 &amp;&amp; @20KLE20CR005-B01_XD23 &amp;&amp; @20KLE20CR005-B01_XN25==0 &amp;&amp; @20KLE20CR005-B01_XN27==0 ) || (@20KLE20CR006-B01_XH43 &amp;&amp; @20KLE20CR006-B01_XD23 &amp;&amp; @20KLE20CR006-B01_XN25==0 &amp;&amp; @20KLE20CR006-B01_XN27==0 ) || (@20KLE20CR007-B01_XH43 &amp;&amp; @20KLE20CR007-B01_XD23 &amp;&amp; @20KLE20CR007-B01_XN25==0 &amp;&amp; @20KLE20CR007-B01_XN27==0 ) || (@20KLE20CR008-B01_XH43 &amp;&amp; @20KLE20CR008-B01_XD23 &amp;&amp; @20KLE20CR008-B01_XN25==0 &amp;&amp; @20KLE20CR008-B01_XN27==0 ) || (@20KLE20CR009-B01_XH43 &amp;&amp; @20KLE20CR009-B01_XD23 &amp;&amp; @20KLE20CR009-B01_XN25==0 &amp;&amp; @20KLE20CR009-B01_XN27==0 ) || (@20KLE20CR010-B01_XH43 &amp;&amp; @20KLE20CR010-B01_XD23 &amp;&amp; @20KLE20CR010-B01_XN25==0 &amp;&amp; @20KLE20CR010-B01_XN27==0 ) || (@20KLT20CR001-B01_XH43 &amp;&amp; @20KLT20CR001-B01_XD23 &amp;&amp; @20KLT20CR001-B01_XN25==0 &amp;&amp; @20KLT20CR001-B01_XN27==0 ) || (@20KPF40CR001-B01_XH43 &amp;&amp; @20KPF40CR001-B01_XD23 &amp;&amp; @20KPF40CR001-B01_XN25==0 &amp;&amp; @20KPF40CR001-B01_XN27==0 ) || (@20KPF40CR002-B01_XH43 &amp;&amp; @20KPF40CR002-B01_XD23 &amp;&amp; @20KPF40CR002-B01_XN25==0 &amp;&amp; @20KPF40CR002-B01_XN27==0 ) || (@20KPL30CR001-B01_XH43 &amp;&amp; @20KPL30CR001-B01_XD23 &amp;&amp; @20KPL30CR001-B01_XN25==0 &amp;&amp; @20KPL30CR001-B01_XN27==0 ) || (@20KPL31CR201-B01_XH43 &amp;&amp; @20KPL31CR201-B01_XD23 &amp;&amp; @20KPL31CR201-B01_XN25==0) || (@20KPL31CR202-B01_XH43 &amp;&amp; @20KPL31CR202-B01_XD23 &amp;&amp; @20KPL31CR202-B01_XN25==0) || (@20KPL32CR201-B01_XH43 &amp;&amp; @20KPL32CR201-B01_XD23 &amp;&amp; @20KPL32CR201-B01_XN25==0) || (@20KPL32CR202-B01_XH43 &amp;&amp; @20KPL32CR202-B01_XD23 &amp;&amp; @20KPL32CR202-B01_XN25==0) || (@20KPL70CR001-B01_XH43 &amp;&amp; @20KPL70CR001-B01_XD23 &amp;&amp; @20KPL70CR001-B01_XN25==0 &amp;&amp; @20KPL70CR001-B01_XN27==0 ) || (@20KPL70CR002-B01_XH43 &amp;&amp; @20KPL70CR002-B01_XD23 &amp;&amp; @20KPL70CR002-B01_XN25==0 &amp;&amp; @20KPL70CR002-B01_XN27==0 ) || (@20KUB01CR001-B01_XH43 &amp;&amp; @20KUB01CR001-B01_XD23 &amp;&amp; @20KUB01CR001-B01_XN25==0 &amp;&amp; @20KUB01CR001-B01_XN27==0 ) || (@20KUB01CR002-B01_XH43 &amp;&amp; @20KUB01CR002-B01_XD23 &amp;&amp; @20KUB01CR002-B01_XN25==0 &amp;&amp; @20KUB01CR002-B01_XN27==0 ) || (@20KUB01CR003-B01_XH43 &amp;&amp; @20KUB01CR003-B01_XD23 &amp;&amp; @20KUB01CR003-B01_XN25==0 &amp;&amp; @20KUB01CR003-B01_XN27==0 ) || (@20LBA10CR001-B01_XH43 &amp;&amp; @20LBA10CR001-B01_XD23 &amp;&amp; @20LBA10CR001-B01_XN25==0 &amp;&amp; @20LBA10CR001-B01_XN27==0 ) || (@20LBA10CR811-B01_XH43 &amp;&amp; @20LBA10CR811-B01_XD23 &amp;&amp; @20LBA10CR811-B01_XN25==0 ) || (@20LBA10CR812-B01_XH43 &amp;&amp; @20LBA10CR812-B01_XD23 &amp;&amp; @20LBA10CR812-B01_XN25==0 ) || (@20LBA10CR821-B01_XH43 &amp;&amp; @20LBA10CR821-B01_XD23 &amp;&amp; @20LBA10CR821-B01_XN25==0 ) || (@20LBA10CR822-B01_XH43 &amp;&amp; @20LBA10CR822-B01_XD23 &amp;&amp; @20LBA10CR822-B01_XN25==0 ) || (@20LBA10CR831-B01_XH43 &amp;&amp; @20LBA10CR831-B01_XD23 &amp;&amp; @20LBA10CR831-B01_XN25==0 ) || (@20LBA10CR832-B01_XH43 &amp;&amp; @20LBA10CR832-B01_XD23 &amp;&amp; @20LBA10CR832-B01_XN25==0 ) || (@20LBA10CR841-B01_XH43 &amp;&amp; @20LBA10CR841-B01_XD23 &amp;&amp; @20LBA10CR841-B01_XN25==0 ) || (@20LBA10CR842-B01_XH43 &amp;&amp; @20LBA10CR842-B01_XD23 &amp;&amp; @20LBA10CR842-B01_XN25==0 ) || (@20LBA20CR001-B01_XH43 &amp;&amp; @20LBA20CR001-B01_XD23 &amp;&amp; @20LBA20CR001-B01_XN25==0 &amp;&amp; @20LBA20CR001-B01_XN27==0 ) || (@20LBA20CR811-B01_XH43 &amp;&amp; @20LBA20CR811-B01_XD23 &amp;&amp; @20LBA20CR811-B01_XN25==0 ) || (@20LBA20CR812-B01_XH43 &amp;&amp; @20LBA20CR812-B01_XD23 &amp;&amp; @20LBA20CR812-B01_XN25==0 ) || (@20LBA20CR821-B01_XH43 &amp;&amp; @20LBA20CR821-B01_XD23 &amp;&amp; @20LBA20CR821-B01_XN25==0 ) || (@20LBA20CR822-B01_XH43 &amp;&amp; @20LBA20CR822-B01_XD23 &amp;&amp; @20LBA20CR822-B01_XN25==0 ) || (@20LBA20CR831-B01_XH43 &amp;&amp; @20LBA20CR831-B01_XD23 &amp;&amp; @20LBA20CR831-B01_XN25==0 ) || (@20LBA20CR832-B01_XH43 &amp;&amp; @20LBA20CR832-B01_XD23 &amp;&amp; @20LBA20CR832-B01_XN25==0 ) || (@20LBA20CR841-B01_XH43 &amp;&amp; @20LBA20CR841-B01_XD23 &amp;&amp; @20LBA20CR841-B01_XN25==0 ) || (@20LBA20CR842-B01_XH43 &amp;&amp; @20LBA20CR842-B01_XD23 &amp;&amp; @20LBA20CR842-B01_XN25==0 ) || (@20LBA30CR001-B01_XH43 &amp;&amp; @20LBA30CR001-B01_XD23 &amp;&amp; @20LBA30CR001-B01_XN25==0 &amp;&amp; @20LBA30CR001-B01_XN27==0 ) || (@20LBA30CR811-B01_XH43 &amp;&amp; @20LBA30CR811-B01_XD23 &amp;&amp; @20LBA30CR811-B01_XN25==0 ) || (@20LBA30CR812-B01_XH43 &amp;&amp; @20LBA30CR812-B01_XD23 &amp;&amp; @20LBA30CR812-B01_XN25==0 ) || (@20LBA30CR821-B01_XH43 &amp;&amp; @20LBA30CR821-B01_XD23 &amp;&amp; @20LBA30CR821-B01_XN25==0 ) || (@20LBA30CR822-B01_XH43 &amp;&amp; @20LBA30CR822-B01_XD23 &amp;&amp; @20LBA30CR822-B01_XN25==0 ) || (@20LBA30CR831-B01_XH43 &amp;&amp; @20LBA30CR831-B01_XD23 &amp;&amp; @20LBA30CR831-B01_XN25==0 ) || (@20LBA30CR832-B01_XH43 &amp;&amp; @20LBA30CR832-B01_XD23 &amp;&amp; @20LBA30CR832-B01_XN25==0 ) || (@20LBA30CR841-B01_XH43 &amp;&amp; @20LBA30CR841-B01_XD23 &amp;&amp; @20LBA30CR841-B01_XN25==0 ) || (@20LBA30CR842-B01_XH43 &amp;&amp; @20LBA30CR842-B01_XD23 &amp;&amp; @20LBA30CR842-B01_XN25==0 ) || (@20LBA40CR001-B01_XH43 &amp;&amp; @20LBA40CR001-B01_XD23 &amp;&amp; @20LBA40CR001-B01_XN25==0 &amp;&amp; @20LBA40CR001-B01_XN27==0 ) || (@20LBA40CR811-B01_XH43 &amp;&amp; @20LBA40CR811-B01_XD23 &amp;&amp; @20LBA40CR811-B01_XN25==0 ) || (@20LBA40CR812-B01_XH43 &amp;&amp; @20LBA40CR812-B01_XD23 &amp;&amp; @20LBA40CR812-B01_XN25==0 ) || (@20LBA40CR821-B01_XH43 &amp;&amp; @20LBA40CR821-B01_XD23 &amp;&amp; @20LBA40CR821-B01_XN25==0 ) || (@20LBA40CR822-B01_XH43 &amp;&amp; @20LBA40CR822-B01_XD23 &amp;&amp; @20LBA40CR822-B01_XN25==0 ) || (@20LBA40CR831-B01_XH43 &amp;&amp; @20LBA40CR831-B01_XD23 &amp;&amp; @20LBA40CR831-B01_XN25==0 ) || (@20LBA40CR832-B01_XH43 &amp;&amp; @20LBA40CR832-B01_XD23 &amp;&amp; @20LBA40CR832-B01_XN25==0 ) || (@20LBA40CR841-B01_XH43 &amp;&amp; @20LBA40CR841-B01_XD23 &amp;&amp; @20LBA40CR841-B01_XN25==0 ) || (@20LBA40CR842-B01_XH43 &amp;&amp; @20LBA40CR842-B01_XD23 &amp;&amp; @20LBA40CR842-B01_XN25==0 ) || (@20LCN30CR001-B01_XH43 &amp;&amp; @20LCN30CR001-B01_XD23 &amp;&amp; @20LCN30CR001-B01_XN25==0 &amp;&amp; @20LCN30CR001-B01_XN27==0 ) || (@20LCQ15CR001-B01_XH43 &amp;&amp; @20LCQ15CR001-B01_XD23 &amp;&amp; @20LCQ15CR001-B01_XN25==0 &amp;&amp; @20LCQ15CR001-B01_XN27==0 ) || (@20LCQ25CR001-B01_XH43 &amp;&amp; @20LCQ25CR001-B01_XD23 &amp;&amp; @20LCQ25CR001-B01_XN25==0 &amp;&amp; @20LCQ25CR001-B01_XN27==0 ) || (@20LCQ35CR001-B01_XH43 &amp;&amp; @20LCQ35CR001-B01_XD23 &amp;&amp; @20LCQ35CR001-B01_XN25==0 &amp;&amp; @20LCQ35CR001-B01_XN27==0 ) || (@20LCQ45CR001-B01_XH43 &amp;&amp; @20LCQ45CR001-B01_XD23 &amp;&amp; @20LCQ45CR001-B01_XN25==0 &amp;&amp; @20LCQ45CR001-B01_XN27==0 ) || (@20MAJ24CR001-B01_XH43 &amp;&amp; @20MAJ24CR001-B01_XD23 &amp;&amp; @20MAJ24CR001-B01_XN25==0 &amp;&amp; @20MAJ24CR001-B01_XN27==0 ) || (@20PEB11CR001-B01_XH43 &amp;&amp; @20PEB11CR001-B01_XD23 &amp;&amp; @20PEB11CR001-B01_XN25==0 &amp;&amp; @20PEB11CR001-B01_XN27==0 ) || (@20PEB12CR001-B01_XH43 &amp;&amp; @20PEB12CR001-B01_XD23 &amp;&amp; @20PEB12CR001-B01_XN25==0 &amp;&amp; @20PEB12CR001-B01_XN27==0 ) || (@20PEB21CR001-B01_XH43 &amp;&amp; @20PEB21CR001-B01_XD23 &amp;&amp; @20PEB21CR001-B01_XN25==0 &amp;&amp; @20PEB21CR001-B01_XN27==0 ) || (@20PEB22CR001-B01_XH43 &amp;&amp; @20PEB22CR001-B01_XD23 &amp;&amp; @20PEB22CR001-B01_XN25==0 &amp;&amp; @20PEB22CR001-B01_XN27==0 ) || (@20PEB31CR001-B01_XH43 &amp;&amp; @20PEB31CR001-B01_XD23 &amp;&amp; @20PEB31CR001-B01_XN25==0 &amp;&amp; @20PEB31CR001-B01_XN27==0 ) || (@20PEB32CR001-B01_XH43 &amp;&amp; @20PEB32CR001-B01_XD23 &amp;&amp; @20PEB32CR001-B01_XN25==0 &amp;&amp; @20PEB32CR001-B01_XN27==0 ) || (@20PEB41CR001-B01_XH43 &amp;&amp; @20PEB41CR001-B01_XD23 &amp;&amp; @20PEB41CR001-B01_XN25==0 &amp;&amp; @20PEB41CR001-B01_XN27==0 ) || (@20PEB42CR001-B01_XH43 &amp;&amp; @20PEB42CR001-B01_XD23 &amp;&amp; @20PEB42CR001-B01_XN25==0 &amp;&amp; @20PEB42CR001-B01_XN27==0 ) || (@20SAC10CR001-B01_XH43 &amp;&amp; @20SAC10CR001-B01_XD23 &amp;&amp; @20SAC10CR001-B01_XN25==0 ) || (@20SAC20CR001-B01_XH43 &amp;&amp; @20SAC20CR001-B01_XD23 &amp;&amp; @20SAC20CR001-B01_XN25==0 ) || (@20SAC40CR001-B01_XH43 &amp;&amp; @20SAC40CR001-B01_XD23 &amp;&amp; @20SAC40CR001-B01_XN25==0 ) || (@20UJA00CR001-B01_XH43 &amp;&amp; @20UJA00CR001-B01_XD23 &amp;&amp; @20UJA00CR001-B01_XN25==0 &amp;&amp; @20UJA00CR001-B01_XN27==0 ) || (@20UJA00CR002-B01_XH43 &amp;&amp; @20UJA00CR002-B01_XD23 &amp;&amp; @20UJA00CR002-B01_XN25==0 &amp;&amp; @20UJA00CR002-B01_XN27==0 ) || (@20UJA00CR003-B01_XH43 &amp;&amp; @20UJA00CR003-B01_XD23 &amp;&amp; @20UJA00CR003-B01_XN25==0 ) || (@20UJA14CR001-B01_XH43 &amp;&amp; @20UJA14CR001-B01_XD23 &amp;&amp; @20UJA14CR001-B01_XN25==0 ) || (@20UJA14CR002-B01_XH43 &amp;&amp; @20UJA14CR002-B01_XD23 &amp;&amp; @20UJA14CR002-B01_XN25==0 ) || (@20UJA14CR003-B01_XH43 &amp;&amp; @20UJA14CR003-B01_XD23 &amp;&amp; @20UJA14CR003-B01_XN25==0 ) || (@20UJA14CR004-B01_XH43 &amp;&amp; @20UJA14CR004-B01_XD23 &amp;&amp; @20UJA14CR004-B01_XN25==0 ) || (@20UJA26CR001-B01_XH43 &amp;&amp; @20UJA26CR001-B01_XD23 &amp;&amp; @20UJA26CR001-B01_XN25==0 &amp;&amp; @20UJA26CR001-B01_XN27==0 ) || (@20UJA26CR002-B01_XH43 &amp;&amp; @20UJA26CR002-B01_XD23 &amp;&amp; @20UJA26CR002-B01_XN25==0 &amp;&amp; @20UJA26CR002-B01_XN27==0 ) || (@20UJA26CR003-B01_XH43 &amp;&amp; @20UJA26CR003-B01_XD23 &amp;&amp; @20UJA26CR003-B01_XN25==0 ) || (@20UJA26CR004-B01_XH43 &amp;&amp; @20UJA26CR004-B01_XD23 &amp;&amp; @20UJA26CR004-B01_XN25==0 ) || (@20UJA26CR005-B01_XH43 &amp;&amp; @20UJA26CR005-B01_XD23 &amp;&amp; @20UJA26CR005-B01_XN25==0 ) || (@20UJB91CR001-B01_XH43 &amp;&amp; @20UJB91CR001-B01_XD23 &amp;&amp; @20UJB91CR001-B01_XN25==0 &amp;&amp; @20UJB91CR001-B01_XN27==0 ) || (@20UJB91CR002-B01_XH43 &amp;&amp; @20UJB91CR002-B01_XD23 &amp;&amp; @20UJB91CR002-B01_XN25==0 &amp;&amp; @20UJB91CR002-B01_XN27==0 ) || (@20UJB91CR003-B01_XH43 &amp;&amp; @20UJB91CR003-B01_XD23 &amp;&amp; @20UJB91CR003-B01_XN25==0 &amp;&amp; @20UJB91CR003-B01_XN27==0 ) || (@20UJB91CR004-B01_XH43 &amp;&amp; @20UJB91CR004-B01_XD23 &amp;&amp; @20UJB91CR004-B01_XN25==0 &amp;&amp; @20UJB91CR004-B01_XN27==0 ) || (@20UJB91CR005-B01_XH43 &amp;&amp; @20UJB91CR005-B01_XD23 &amp;&amp; @20UJB91CR005-B01_XN25==0 ) || (@20UJB91CR006-B01_XH43 &amp;&amp; @20UJB91CR006-B01_XD23 &amp;&amp; @20UJB91CR006-B01_XN25==0 ) || (@20UJB91CR007-B01_XH43 &amp;&amp; @20UJB91CR007-B01_XD23 &amp;&amp; @20UJB91CR007-B01_XN25==0 ) || (@20UJB91CR008-B01_XH43 &amp;&amp; @20UJB91CR008-B01_XD23 &amp;&amp; @20UJB91CR008-B01_XN25==0 ) || @20UKA00CR001_XH43 &amp;&amp; @20UKA00CR001_XD23 &amp;&amp; @20UKA00CR001_XN25==0 &amp;&amp; @20UKA00CR001_XN27==0 ) || (@20UKA00CR002_XH43 &amp;&amp; @20UKA00CR002_XD23 &amp;&amp; @20UKA00CR002_XN25==0 &amp;&amp; @20UKA00CR002_XN27==0 ) || (@20UKA00CR003_XH43 &amp;&amp; @20UKA00CR003_XD23 &amp;&amp; @20UKA00CR003_XN25==0 &amp;&amp; @20UKA00CR003_XN27==0 ) || (@20UKA00CR004_XH43 &amp;&amp; @20UKA00CR004_XD23 &amp;&amp; @20UKA00CR004_XN25==0 &amp;&amp; @20UKA00CR004_XN27==0 ) || (@20UKA00CR101-B01_XH43 &amp;&amp; @20UKA00CR101-B01_XD23 &amp;&amp; @20UKA00CR101-B01_XN25==0 &amp;&amp; @20UKA00CR101-B01_XN27==0 ) || (@20UKA00CR102-B01_XH43 &amp;&amp; @20UKA00CR102-B01_XD23 &amp;&amp; @20UKA00CR102-B01_XN25==0 &amp;&amp; @20UKA00CR102-B01_XN27==0 ) || (@20UKA00CR103-B01_XH43 &amp;&amp; @20UKA00CR103-B01_XD23 &amp;&amp; @20UKA00CR103-B01_XN25==0 &amp;&amp; @20UKA00CR103-B01_XN27==0 ) || (@20UKA04CR001_XH43 &amp;&amp; @20UKA04CR001_XD23 &amp;&amp; @20UKA04CR001_XN25==0 &amp;&amp; @20UKA04CR001_XN27==0 ) || (@20UKA04CR002_XH43 &amp;&amp; @20UKA04CR002_XD23 &amp;&amp; @20UKA04CR002_XN25==0 &amp;&amp; @20UKA04CR002_XN27==0 ) || (@20UKA04CR003_XH43 &amp;&amp; @20UKA04CR003_XD23 &amp;&amp; @20UKA04CR003_XN25==0 &amp;&amp; @20UKA04CR003_XN27==0 ) || (@20UKA04CR004_XH43 &amp;&amp; @20UKA04CR004_XD23 &amp;&amp; @20UKA04CR004_XN25==0 &amp;&amp; @20UKA04CR004_XN27==0 ) || (@20UKA04CR101-B01_XH43 &amp;&amp; @20UKA04CR101-B01_XD23 &amp;&amp; @20UKA04CR101-B01_XN25==0 &amp;&amp; @20UKA04CR101-B01_XN27==0 ) || (@20UKA08CR001_XH43 &amp;&amp; @20UKA08CR001_XD23 &amp;&amp; @20UKA08CR001_XN25==0 &amp;&amp; @20UKA08CR001_XN27==0 ) || (@20UKA08CR002_XH43 &amp;&amp; @20UKA08CR002_XD23 &amp;&amp; @20UKA08CR002_XN25==0 &amp;&amp; @20UKA08CR002_XN27==0 ) || (@20UKA08CR003_XH43 &amp;&amp; @20UKA08CR003_XD23 &amp;&amp; @20UKA08CR003_XN25==0 &amp;&amp; @20UKA08CR003_XN27==0 ) || (@20UKA08CR101-B01_XH43 &amp;&amp; @20UKA08CR101-B01_XD23 &amp;&amp; @20UKA08CR101-B01_XN25==0 &amp;&amp; @20UKA08CR101-B01_XN27==0 ) || (@20UKA08CR102-B01_XH43 &amp;&amp; @20UKA08CR102-B01_XD23 &amp;&amp; @20UKA08CR102-B01_XN25==0 &amp;&amp; @20UKA08CR102-B01_XN27==0 ) || (@20UKA08CR103-B01_XH43 &amp;&amp; @20UKA08CR103-B01_XD23 &amp;&amp; @20UKA08CR103-B01_XN25==0 &amp;&amp; @20UKA08CR103-B01_XN27==0 ) || (@20UKA12CR001_XH43 &amp;&amp; @20UKA12CR001_XD23 &amp;&amp; @20UKA12CR001_XN25==0 &amp;&amp; @20UKA12CR001_XN27==0 ) || (@20UKA12CR002_XH43 &amp;&amp; @20UKA12CR002_XD23 &amp;&amp; @20UKA12CR002_XN25==0 &amp;&amp; @20UKA12CR002_XN27==0 ) || (@20UKA12CR003_XH43 &amp;&amp; @20UKA12CR003_XD23 &amp;&amp; @20UKA12CR003_XN25==0 &amp;&amp; @20UKA12CR003_XN27==0 ) || (@20UKA12CR101-B01_XH43 &amp;&amp; @20UKA12CR101-B01_XD23 &amp;&amp; @20UKA12CR101-B01_XN25==0 &amp;&amp; @20UKA12CR101-B01_XN27==0 ) || (@20UKA12CR102-B01_XH43 &amp;&amp; @20UKA12CR102-B01_XD23 &amp;&amp; @20UKA12CR102-B01_XN25==0 &amp;&amp; @20UKA12CR102-B01_XN27==0 ) || (@20UKA12CR103-B01_XH43 &amp;&amp; @20UKA12CR103-B01_XD23 &amp;&amp; @20UKA12CR103-B01_XN25==0 &amp;&amp; @20UKA12CR103-B01_XN27==0 ) || (@20UKA12CR104-B01_XH43 &amp;&amp; @20UKA12CR104-B01_XD23 &amp;&amp; @20UKA12CR104-B01_XN25==0 &amp;&amp; @20UKA12CR104-B01_XN27==0 ) || (@20UKA16CR001_XH43 &amp;&amp; @20UKA16CR001_XD23 &amp;&amp; @20UKA16CR001_XN25==0 &amp;&amp; @20UKA16CR001_XN27==0 ) || (@20UKA16CR002_XH43 &amp;&amp; @20UKA16CR002_XD23 &amp;&amp; @20UKA16CR002_XN25==0 &amp;&amp; @20UKA16CR002_XN27==0 ) || (@20UKA93CR001_XH43 &amp;&amp; @20UKA93CR001_XD23 &amp;&amp; @20UKA93CR001_XN25==0 &amp;&amp; @20UKA93CR001_XN27==0 ) || (@20UKA93CR002_XH43 &amp;&amp; @20UKA93CR002_XD23 &amp;&amp; @20UKA93CR002_XN25==0 &amp;&amp; @20UKA93CR002_XN27==0 ) || (@20UKA93CR003_XH43 &amp;&amp; @20UKA93CR003_XD23 &amp;&amp; @20UKA93CR003_XN25==0 &amp;&amp; @20UKA93CR003_XN27==0 ) || (@20UKA97CR001_XH43 &amp;&amp; @20UKA97CR001_XD23 &amp;&amp; @20UKA97CR001_XN25==0 &amp;&amp; @20UKA97CR001_XN27==0 ) || (@20UKA97CR002_XH43 &amp;&amp; @20UKA97CR002_XD23 &amp;&amp; @20UKA97CR002_XN25==0 &amp;&amp; @20UKA97CR002_XN27==0 ) || (@20UKA97CR003_XH43 &amp;&amp; @20UKA97CR003_XD23 &amp;&amp; @20UKA97CR003_XN25==0 &amp;&amp; @20UKA97CR003_XN27==0 ) || (@20UKA99CR001_XH43 &amp;&amp; @20UKA99CR001_XD23 &amp;&amp; @20UKA99CR001_XN25==0 &amp;&amp; @20UKA99CR001_XN27==0 ) || (@20UKA99CR002_XH43 &amp;&amp; @20UKA99CR002_XD23 &amp;&amp; @20UKA99CR002_XN25==0 &amp;&amp; @20UKA99CR002_XN27==0 ) || (@20UKA99CR003_XH43 &amp;&amp; @20UKA99CR003_XD23 &amp;&amp; @20UKA99CR003_XN25==0 &amp;&amp; @20UKA99CR003_XN27==0 ) || (@20UKD00CR001_XH43 &amp;&amp; @20UKD00CR001_XD23 &amp;&amp; @20UKD00CR001_XN25==0 &amp;&amp; @20UKD00CR001_XN27==0 ) || (@20UKD00CR002_XH43 &amp;&amp; @20UKD00CR002_XD23 &amp;&amp; @20UKD00CR002_XN25==0 &amp;&amp; @20UKD00CR002_XN27==0 ) || (@20UKD04CR001_XH43 &amp;&amp; @20UKD04CR001_XD23 &amp;&amp; @20UKD04CR001_XN25==0 &amp;&amp; @20UKD04CR001_XN27==0 ) || (@20UKD04CR002_XH43 &amp;&amp; @20UKD04CR002_XD23 &amp;&amp; @20UKD04CR002_XN25==0 &amp;&amp; @20UKD04CR002_XN27==0 ) || (@20UKD12CR001_XH43 &amp;&amp; @20UKD12CR001_XD23 &amp;&amp; @20UKD12CR001_XN25==0 &amp;&amp; @20UKD12CR001_XN27==0 ) || (@20UKD12CR002_XH43 &amp;&amp; @20UKD12CR002_XD23 &amp;&amp; @20UKD12CR002_XN25==0 &amp;&amp; @20UKD12CR002_XN27==0 ) || (@20UKH12CR001-B01_XH43 &amp;&amp; @20UKH12CR001-B01_XD23 &amp;&amp; @20UKH12CR001-B01_XN25==0 &amp;&amp; @20UKH12CR001-B01_XN27==0 ) || (@20UKH12CR002-B01_XH43 &amp;&amp; @20UKH12CR002-B01_XD23 &amp;&amp; @20UKH12CR002-B01_XN25==0 &amp;&amp; @20UKH12CR002-B01_XN27==0 ) || (@20UKH12CR003-B01_XH43 &amp;&amp; @20UKH12CR003-B01_XD23 &amp;&amp; @20UKH12CR003-B01_XN25==0 &amp;&amp; @20UKH12CR003-B01_XN27==0 ) || (@20UKH12CR004-B01_XH43 &amp;&amp; @20UKH12CR004-B01_XD23 &amp;&amp; @20UKH12CR004-B01_XN25==0 ) || (@20UKH12CR005-B01_XH43 &amp;&amp; @20UKH12CR005-B01_XD23 &amp;&amp; @20UKH12CR005-B01_XN25==0 &amp;&amp; @20UKH12CR005-B01_XN27==0 ) || (@20UKH12CR006-B01_XH43 &amp;&amp; @20UKH12CR006-B01_XD23 &amp;&amp; @20UKH12CR006-B01_XN25==0 &amp;&amp; @20UKH12CR006-B01_XN27==0 ) || (@20UKH12CR007-B01_XH43 &amp;&amp; @20UKH12CR007-B01_XD23 &amp;&amp; @20UKH12CR007-B01_XN25==0 &amp;&amp; @20UKH12CR007-B01_XN27==0 ) || (@20UKH12CR008-B01_XH43 &amp;&amp; @20UKH12CR008-B01_XD23 &amp;&amp; @20UKH12CR008-B01_XN25==0 ) || (@20UKH12CR009-B01_XH43 &amp;&amp; @20UKH12CR009-B01_XD23 &amp;&amp; @20UKH12CR009-B01_XN25==0 &amp;&amp; @20UKH12CR009-B01_XN27==0 ) || (@20UKH12CR010-B01_XH43 &amp;&amp; @20UKH12CR010-B01_XD23 &amp;&amp; @20UKH12CR010-B01_XN25==0 &amp;&amp; @20UKH12CR010-B01_XN27==0 ) || (@20UKH12CR011-B01_XH43 &amp;&amp; @20UKH12CR011-B01_XD23 &amp;&amp; @20UKH12CR011-B01_XN25==0 &amp;&amp; @20UKH12CR011-B01_XN27==0 ) || (@20UKH12CR012-B01_XH43 &amp;&amp; @20UKH12CR012-B01_XD23 &amp;&amp; @20UKH12CR012-B01_XN25==0 ) || (@20UKH12CR201-B01_XH43 &amp;&amp; @20UKH12CR201-B01_XD23 &amp;&amp; @20UKH12CR201-B01_XN25==0)"
+           templatename="Z03WARN" />
+        <nsstringconst
+           id="nsstringconst12242-9"
+           humname="ОБЩ_УСТОЙЧИВЫЙ_РОСТ"
+           req="0"
+           desc="Обобщенный признак устойчивого роста значения параметра в видеокадре"
+           name="(@00GRK17CR001-B01_XH01 &amp;&amp; @00GRK17CR001-B01_XD23 &amp;&amp; @00GRK17CR001-B01_XN25==0 &amp;&amp; @00GRK17CR001-B01_XN27==0 ) || (@20FAK10CR001-B01_XH01 &amp;&amp; @20FAK10CR001-B01_XD23 &amp;&amp; @20FAK10CR001-B01_XN25==0 &amp;&amp; @20FAK10CR001-B01_XN27==0 ) || (@20FAK40CR001-B01_XH01 &amp;&amp; @20FAK40CR001-B01_XD23 &amp;&amp; @20FAK40CR001-B01_XN25==0 &amp;&amp; @20FAK40CR001-B01_XN27==0 ) || (@20JNG10CR001-B01_XH01 &amp;&amp; @20JNG10CR001-B01_XD23 &amp;&amp; @20JNG10CR001-B01_XN25==0 &amp;&amp; @20JNG10CR001-B01_XN27==0 ) || (@20JNG20CR001-B01_XH01 &amp;&amp; @20JNG20CR001-B01_XD23 &amp;&amp; @20JNG20CR001-B01_XN25==0 &amp;&amp; @20JNG20CR001-B01_XN27==0 ) || (@20JNG30CR001-B01_XH01 &amp;&amp; @20JNG30CR001-B01_XD23 &amp;&amp; @20JNG30CR001-B01_XN25==0 &amp;&amp; @20JNG30CR001-B01_XN27==0 ) || (@20JNG40CR001-B01_XH01 &amp;&amp; @20JNG40CR001-B01_XD23 &amp;&amp; @20JNG40CR001-B01_XN25==0 &amp;&amp; @20JNG40CR001-B01_XN27==0 ) || (@20KAA10CR001-B01_XH01 &amp;&amp; @20KAA10CR001-B01_XD23 &amp;&amp; @20KAA10CR001-B01_XN25==0 &amp;&amp; @20KAA10CR001-B01_XN27==0 ) || (@20KAA20CR001-B01_XH01 &amp;&amp; @20KAA20CR001-B01_XD23 &amp;&amp; @20KAA20CR001-B01_XN25==0 &amp;&amp; @20KAA20CR001-B01_XN27==0 ) || (@20KAA30CR001-B01_XH01 &amp;&amp; @20KAA30CR001-B01_XD23 &amp;&amp; @20KAA30CR001-B01_XN25==0 &amp;&amp; @20KAA30CR001-B01_XN27==0 ) || (@20KAA40CR001-B01_XH01 &amp;&amp; @20KAA40CR001-B01_XD23 &amp;&amp; @20KAA40CR001-B01_XN25==0 &amp;&amp; @20KAA40CR001-B01_XN27==0 ) || (@20KAB50CR001-B01_XH01 &amp;&amp; @20KAB50CR001-B01_XD23 &amp;&amp; @20KAB50CR001-B01_XN25==0 &amp;&amp; @20KAB50CR001-B01_XN27==0 ) || (@20KAB60CR001-B01_XH01 &amp;&amp; @20KAB60CR001-B01_XD23 &amp;&amp; @20KAB60CR001-B01_XN25==0 &amp;&amp; @20KAB60CR001-B01_XN27==0 ) || (@20KLA10CR001-B01_XH01 &amp;&amp; @20KLA10CR001-B01_XD23 &amp;&amp; @20KLA10CR001-B01_XN25==0 &amp;&amp; @20KLA10CR001-B01_XN27==0 ) || (@20KLA20CR001-B01_XH01 &amp;&amp; @20KLA20CR001-B01_XD23 &amp;&amp; @20KLA20CR001-B01_XN25==0 &amp;&amp; @20KLA20CR001-B01_XN27==0 ) || (@20KLA20CR002-B01_XH01 &amp;&amp; @20KLA20CR002-B01_XD23 &amp;&amp; @20KLA20CR002-B01_XN25==0 &amp;&amp; @20KLA20CR002-B01_XN27==0 ) || (@20KLA30CR001-B01_XH01 &amp;&amp; @20KLA30CR001-B01_XD23 &amp;&amp; @20KLA30CR001-B01_XN25==0 &amp;&amp; @20KLA30CR001-B01_XN27==0 ) || (@20KLA50CR001-B01_XH01 &amp;&amp; @20KLA50CR001-B01_XD23 &amp;&amp; @20KLA50CR001-B01_XN25==0 &amp;&amp; @20KLA50CR001-B01_XN27==0 ) || (@20KLC11CR001-B01_XH01 &amp;&amp; @20KLC11CR001-B01_XD23 &amp;&amp; @20KLC11CR001-B01_XN25==0 &amp;&amp; @20KLC11CR001-B01_XN27==0 ) || (@20KLC21CR001-B01_XH01 &amp;&amp; @20KLC21CR001-B01_XD23 &amp;&amp; @20KLC21CR001-B01_XN25==0 &amp;&amp; @20KLC21CR001-B01_XN27==0 ) || (@20KLC31CR001-B01_XH01 &amp;&amp; @20KLC31CR001-B01_XD23 &amp;&amp; @20KLC31CR001-B01_XN25==0 &amp;&amp; @20KLC31CR001-B01_XN27==0 ) || (@20KLC41CR001-B01_XH01 &amp;&amp; @20KLC41CR001-B01_XD23 &amp;&amp; @20KLC41CR001-B01_XN25==0 &amp;&amp; @20KLC41CR001-B01_XN27==0 ) || (@20KLD10CR001-B01_XH01 &amp;&amp; @20KLD10CR001-B01_XD23 &amp;&amp; @20KLD10CR001-B01_XN25==0 &amp;&amp; @20KLD10CR001-B01_XN27==0 ) || (@20KLD10CR002-B01_XH01 &amp;&amp; @20KLD10CR002-B01_XD23 &amp;&amp; @20KLD10CR002-B01_XN25==0 &amp;&amp; @20KLD10CR002-B01_XN27==0 ) || (@20KLD10CR003-B01_XH01 &amp;&amp; @20KLD10CR003-B01_XD23 &amp;&amp; @20KLD10CR003-B01_XN25==0 &amp;&amp; @20KLD10CR003-B01_XN27==0 ) || (@20KLD20CR001-B01_XH01 &amp;&amp; @20KLD20CR001-B01_XD23 &amp;&amp; @20KLD20CR001-B01_XN25==0 &amp;&amp; @20KLD20CR001-B01_XN27==0 ) || (@20KLD20CR002-B01_XH01 &amp;&amp; @20KLD20CR002-B01_XD23 &amp;&amp; @20KLD20CR002-B01_XN25==0 &amp;&amp; @20KLD20CR002-B01_XN27==0 ) || (@20KLD20CR003-B01_XH01 &amp;&amp; @20KLD20CR003-B01_XD23 &amp;&amp; @20KLD20CR003-B01_XN25==0 &amp;&amp; @20KLD20CR003-B01_XN27==0 ) || (@20KLE20CR001-B01_XH01 &amp;&amp; @20KLE20CR001-B01_XD23 &amp;&amp; @20KLE20CR001-B01_XN25==0 &amp;&amp; @20KLE20CR001-B01_XN27==0 ) || (@20KLE20CR002-B01_XH01 &amp;&amp; @20KLE20CR002-B01_XD23 &amp;&amp; @20KLE20CR002-B01_XN25==0 &amp;&amp; @20KLE20CR002-B01_XN27==0 ) || (@20KLE20CR003-B01_XH01 &amp;&amp; @20KLE20CR003-B01_XD23 &amp;&amp; @20KLE20CR003-B01_XN25==0 &amp;&amp; @20KLE20CR003-B01_XN27==0 ) || (@20KLE20CR004-B01_XH01 &amp;&amp; @20KLE20CR004-B01_XD23 &amp;&amp; @20KLE20CR004-B01_XN25==0 &amp;&amp; @20KLE20CR004-B01_XN27==0 ) || (@20KLE20CR005-B01_XH01 &amp;&amp; @20KLE20CR005-B01_XD23 &amp;&amp; @20KLE20CR005-B01_XN25==0 &amp;&amp; @20KLE20CR005-B01_XN27==0 ) || (@20KLE20CR006-B01_XH01 &amp;&amp; @20KLE20CR006-B01_XD23 &amp;&amp; @20KLE20CR006-B01_XN25==0 &amp;&amp; @20KLE20CR006-B01_XN27==0 ) || (@20KLE20CR007-B01_XH01 &amp;&amp; @20KLE20CR007-B01_XD23 &amp;&amp; @20KLE20CR007-B01_XN25==0 &amp;&amp; @20KLE20CR007-B01_XN27==0 ) || (@20KLE20CR008-B01_XH01 &amp;&amp; @20KLE20CR008-B01_XD23 &amp;&amp; @20KLE20CR008-B01_XN25==0 &amp;&amp; @20KLE20CR008-B01_XN27==0 ) || (@20KLE20CR009-B01_XH01 &amp;&amp; @20KLE20CR009-B01_XD23 &amp;&amp; @20KLE20CR009-B01_XN25==0 &amp;&amp; @20KLE20CR009-B01_XN27==0 ) || (@20KLE20CR010-B01_XH01 &amp;&amp; @20KLE20CR010-B01_XD23 &amp;&amp; @20KLE20CR010-B01_XN25==0 &amp;&amp; @20KLE20CR010-B01_XN27==0 ) || (@20KLT20CR001-B01_XH01 &amp;&amp; @20KLT20CR001-B01_XD23 &amp;&amp; @20KLT20CR001-B01_XN25==0 &amp;&amp; @20KLT20CR001-B01_XN27==0 ) || (@20KPF40CR001-B01_XH01 &amp;&amp; @20KPF40CR001-B01_XD23 &amp;&amp; @20KPF40CR001-B01_XN25==0 &amp;&amp; @20KPF40CR001-B01_XN27==0 ) || (@20KPF40CR002-B01_XH01 &amp;&amp; @20KPF40CR002-B01_XD23 &amp;&amp; @20KPF40CR002-B01_XN25==0 &amp;&amp; @20KPF40CR002-B01_XN27==0 ) || (@20KPL30CR001-B01_XH01 &amp;&amp; @20KPL30CR001-B01_XD23 &amp;&amp; @20KPL30CR001-B01_XN25==0 &amp;&amp; @20KPL30CR001-B01_XN27==0 ) || (@20KPL70CR001-B01_XH01 &amp;&amp; @20KPL70CR001-B01_XD23 &amp;&amp; @20KPL70CR001-B01_XN25==0 &amp;&amp; @20KPL70CR001-B01_XN27==0 ) || (@20KPL70CR002-B01_XH01 &amp;&amp; @20KPL70CR002-B01_XD23 &amp;&amp; @20KPL70CR002-B01_XN25==0 &amp;&amp; @20KPL70CR002-B01_XN27==0 ) || (@20KUB01CR001-B01_XH01 &amp;&amp; @20KUB01CR001-B01_XD23 &amp;&amp; @20KUB01CR001-B01_XN25==0 &amp;&amp; @20KUB01CR001-B01_XN27==0 ) || (@20KUB01CR002-B01_XH01 &amp;&amp; @20KUB01CR002-B01_XD23 &amp;&amp; @20KUB01CR002-B01_XN25==0 &amp;&amp; @20KUB01CR002-B01_XN27==0 ) || (@20KUB01CR003-B01_XH01 &amp;&amp; @20KUB01CR003-B01_XD23 &amp;&amp; @20KUB01CR003-B01_XN25==0 &amp;&amp; @20KUB01CR003-B01_XN27==0 ) || (@20LBA10CR001-B01_XH01 &amp;&amp; @20LBA10CR001-B01_XD23 &amp;&amp; @20LBA10CR001-B01_XN25==0 &amp;&amp; @20LBA10CR001-B01_XN27==0 ) || (@20LBA20CR001-B01_XH01 &amp;&amp; @20LBA20CR001-B01_XD23 &amp;&amp; @20LBA20CR001-B01_XN25==0 &amp;&amp; @20LBA20CR001-B01_XN27==0 ) || (@20LBA30CR001-B01_XH01 &amp;&amp; @20LBA30CR001-B01_XD23 &amp;&amp; @20LBA30CR001-B01_XN25==0 &amp;&amp; @20LBA30CR001-B01_XN27==0 ) || (@20LBA40CR001-B01_XH01 &amp;&amp; @20LBA40CR001-B01_XD23 &amp;&amp; @20LBA40CR001-B01_XN25==0 &amp;&amp; @20LBA40CR001-B01_XN27==0 ) || (@20LCN30CR001-B01_XH01 &amp;&amp; @20LCN30CR001-B01_XD23 &amp;&amp; @20LCN30CR001-B01_XN25==0 &amp;&amp; @20LCN30CR001-B01_XN27==0 ) || (@20LCQ15CR001-B01_XH01 &amp;&amp; @20LCQ15CR001-B01_XD23 &amp;&amp; @20LCQ15CR001-B01_XN25==0 &amp;&amp; @20LCQ15CR001-B01_XN27==0 ) || (@20LCQ25CR001-B01_XH01 &amp;&amp; @20LCQ25CR001-B01_XD23 &amp;&amp; @20LCQ25CR001-B01_XN25==0 &amp;&amp; @20LCQ25CR001-B01_XN27==0 ) || (@20LCQ35CR001-B01_XH01 &amp;&amp; @20LCQ35CR001-B01_XD23 &amp;&amp; @20LCQ35CR001-B01_XN25==0 &amp;&amp; @20LCQ35CR001-B01_XN27==0 ) || (@20LCQ45CR001-B01_XH01 &amp;&amp; @20LCQ45CR001-B01_XD23 &amp;&amp; @20LCQ45CR001-B01_XN25==0 &amp;&amp; @20LCQ45CR001-B01_XN27==0 ) || (@20PEB11CR001-B01_XH01 &amp;&amp; @20PEB11CR001-B01_XD23 &amp;&amp; @20PEB11CR001-B01_XN25==0 &amp;&amp; @20PEB11CR001-B01_XN27==0 ) || (@20PEB12CR001-B01_XH01 &amp;&amp; @20PEB12CR001-B01_XD23 &amp;&amp; @20PEB12CR001-B01_XN25==0 &amp;&amp; @20PEB12CR001-B01_XN27==0 ) || (@20PEB21CR001-B01_XH01 &amp;&amp; @20PEB21CR001-B01_XD23 &amp;&amp; @20PEB21CR001-B01_XN25==0 &amp;&amp; @20PEB21CR001-B01_XN27==0 ) || (@20PEB22CR001-B01_XH01 &amp;&amp; @20PEB22CR001-B01_XD23 &amp;&amp; @20PEB22CR001-B01_XN25==0 &amp;&amp; @20PEB22CR001-B01_XN27==0 ) || (@20PEB31CR001-B01_XH01 &amp;&amp; @20PEB31CR001-B01_XD23 &amp;&amp; @20PEB31CR001-B01_XN25==0 &amp;&amp; @20PEB31CR001-B01_XN27==0 ) || (@20PEB32CR001-B01_XH01 &amp;&amp; @20PEB32CR001-B01_XD23 &amp;&amp; @20PEB32CR001-B01_XN25==0 &amp;&amp; @20PEB32CR001-B01_XN27==0 ) || (@20PEB41CR001-B01_XH01 &amp;&amp; @20PEB41CR001-B01_XD23 &amp;&amp; @20PEB41CR001-B01_XN25==0 &amp;&amp; @20PEB41CR001-B01_XN27==0 ) || (@20PEB42CR001-B01_XH01 &amp;&amp; @20PEB42CR001-B01_XD23 &amp;&amp; @20PEB42CR001-B01_XN25==0 &amp;&amp; @20PEB42CR001-B01_XN27==0 ) || (@20UJA00CR001-B01_XH01 &amp;&amp; @20UJA00CR001-B01_XD23 &amp;&amp; @20UJA00CR001-B01_XN25==0 &amp;&amp; @20UJA00CR001-B01_XN27==0 ) || (@20UJA00CR002-B01_XH01 &amp;&amp; @20UJA00CR002-B01_XD23 &amp;&amp; @20UJA00CR002-B01_XN25==0 &amp;&amp; @20UJA00CR002-B01_XN27==0 ) || (@20UJA26CR001-B01_XH01 &amp;&amp; @20UJA26CR001-B01_XD23 &amp;&amp; @20UJA26CR001-B01_XN25==0 &amp;&amp; @20UJA26CR001-B01_XN27==0 ) || (@20UJA26CR002-B01_XH01 &amp;&amp; @20UJA26CR002-B01_XD23 &amp;&amp; @20UJA26CR002-B01_XN25==0 &amp;&amp; @20UJA26CR002-B01_XN27==0 ) || (@20UKH12CR001-B01_XH01 &amp;&amp; @20UKH12CR001-B01_XD23 &amp;&amp; @20UKH12CR001-B01_XN25==0 &amp;&amp; @20UKH12CR001-B01_XN27==0 ) || (@20UKH12CR002-B01_XH01 &amp;&amp; @20UKH12CR002-B01_XD23 &amp;&amp; @20UKH12CR002-B01_XN25==0 &amp;&amp; @20UKH12CR002-B01_XN27==0 ) || (@20UKH12CR003-B01_XH01 &amp;&amp; @20UKH12CR003-B01_XD23 &amp;&amp; @20UKH12CR003-B01_XN25==0 &amp;&amp; @20UKH12CR003-B01_XN27==0 ) || (@20UKH12CR005-B01_XH01 &amp;&amp; @20UKH12CR005-B01_XD23 &amp;&amp; @20UKH12CR005-B01_XN25==0 &amp;&amp; @20UKH12CR005-B01_XN27==0 ) || (@20UKH12CR006-B01_XH01 &amp;&amp; @20UKH12CR006-B01_XD23 &amp;&amp; @20UKH12CR006-B01_XN25==0 &amp;&amp; @20UKH12CR006-B01_XN27==0 ) || (@20UKH12CR007-B01_XH01 &amp;&amp; @20UKH12CR007-B01_XD23 &amp;&amp; @20UKH12CR007-B01_XN25==0 &amp;&amp; @20UKH12CR007-B01_XN27==0 ) || (@20UKH12CR009-B01_XH01 &amp;&amp; @20UKH12CR009-B01_XD23 &amp;&amp; @20UKH12CR009-B01_XN25==0 &amp;&amp; @20UKH12CR009-B01_XN27==0 ) || (@20UKH12CR010-B01_XH01 &amp;&amp; @20UKH12CR010-B01_XD23 &amp;&amp; @20UKH12CR010-B01_XN25==0 &amp;&amp; @20UKH12CR010-B01_XN27==0 ) || (@20UKH12CR011-B01_XH01 &amp;&amp; @20UKH12CR011-B01_XD23 &amp;&amp; @20UKH12CR011-B01_XN25==0 &amp;&amp; @20UKH12CR011-B01_XN27==0 )"
+           templatename="Z04TRENDUP" />
+      </signals>
+      <path
+         id="path12244-5"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 1,1 1,27 96,27 96,1 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12246-7"
+         style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4,4 24,4 24,24 4,24 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12248-6"
+         style="fill:#ff0000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27,4 20,0 0,20 -20,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12250-6"
+         style="fill:#ffff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 50,4 20,0 0,20 -20,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path12252-3"
+         style="fill:#00ffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 73,4 20,0 0,20 -20,0 z"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text12254-9"
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="8"
+         y="19"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan12256-8"
+           sodipodi:role="line"
+           x="8"
+           y="19">Н</tspan></text>
+      <text
+         id="text12258-7"
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="32"
+         y="19"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan26162-3-4-6-2-1-9-29-71"
+           x="32"
+           y="19">А</tspan></text>
+      <text
+         id="text12261-4"
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="54"
+         y="19"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan26166-9-9-5-6-3-1-22-9"
+           x="54"
+           y="19">П</tspan></text>
+      <text
+         id="text12264-3"
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="78"
+         y="19"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan26170-9-8-5-1-7-7-46-78"
+           x="78"
+           y="19">Р</tspan></text>
+    </g>
+    <g
+       id="Индикатор для обобщенной сигнализации в вызываемом видеоакдре-78"
+       mnemowidget="1"
+       widget="libF_COMMONSIGNAL_01_CA"
+       style="display:inline"
+       transform="matrix(0.99960217,0,0,0.99960217,20.096398,135.28374)"
+       nsX="20.596"
+       nsY="135.78334"
+       nsW="95.962206"
+       nsH="26.989656">
+      <signals
+         id="signals9996">
+        <nsstringconst
+           id="nsstringconst9998"
+           humname="ОБЩ_НЕИСПРАВНОСТЬ_ИЛИ_НЕТ_ДАННЫХ"
+           req="0"
+           desc="Обобщенная неисправность или отсутствие данных в видеокадре"
+           name="(@00UZF00CR001-B01_XN26 &amp;&amp; @00UZF00CR001-B01_XD23 &amp;&amp; @00UZF00CR001-B01_XN25==0 ) || (@02UYA00CR001-B01_XN26 &amp;&amp; @02UYA00CR001-B01_XD23 &amp;&amp; @02UYA00CR001-B01_XN25==0 ) || (@20UJA00CR003-B01_XN26 &amp;&amp; @20UJA00CR003-B01_XD23 &amp;&amp; @20UJA00CR003-B01_XN25==0 ) || (@20UJA14CR001-B01_XN26 &amp;&amp; @20UJA14CR001-B01_XD23 &amp;&amp; @20UJA14CR001-B01_XN25==0 ) || (@20UJA14CR002-B01_XN26 &amp;&amp; @20UJA14CR002-B01_XD23 &amp;&amp; @20UJA14CR002-B01_XN25==0 ) || (@20UJA14CR003-B01_XN26 &amp;&amp; @20UJA14CR003-B01_XD23 &amp;&amp; @20UJA14CR003-B01_XN25==0 ) || (@20UJA14CR004-B01_XN26 &amp;&amp; @20UJA14CR004-B01_XD23 &amp;&amp; @20UJA14CR004-B01_XN25==0 ) || (@20UJA26CR003-B01_XN26 &amp;&amp; @20UJA26CR003-B01_XD23 &amp;&amp; @20UJA26CR003-B01_XN25==0 ) || (@20UJA26CR004-B01_XN26 &amp;&amp; @20UJA26CR004-B01_XD23 &amp;&amp; @20UJA26CR004-B01_XN25==0 ) || (@20UJA26CR005-B01_XN26 &amp;&amp; @20UJA26CR005-B01_XD23 &amp;&amp; @20UJA26CR005-B01_XN25==0 ) || (@20UJA26CR006-B01_XN26 &amp;&amp; @20UJA26CR006-B01_XD23 &amp;&amp; @20UJA26CR006-B01_XN25==0 ) || (@20UJB91CR005-B01_XN26 &amp;&amp; @20UJB91CR005-B01_XD23 &amp;&amp; @20UJB91CR005-B01_XN25==0 ) || (@20UJB91CR006-B01_XN26 &amp;&amp; @20UJB91CR006-B01_XD23 &amp;&amp; @20UJB91CR006-B01_XN25==0 ) || (@20UJB91CR007-B01_XN26 &amp;&amp; @20UJB91CR007-B01_XD23 &amp;&amp; @20UJB91CR007-B01_XN25==0 ) || (@20UJB91CR008-B01_XN26 &amp;&amp; @20UJB91CR008-B01_XD23 &amp;&amp; @20UJB91CR008-B01_XN25==0 ) || (@20UKA00CR001_XN26 &amp;&amp; @20UKA00CR001_XD23 &amp;&amp; @20UKA00CR001_XN25==0 ) || (@20UKA00CR002_XN26 &amp;&amp; @20UKA00CR002_XD23 &amp;&amp; @20UKA00CR002_XN25==0 ) || (@20UKA00CR003_XN26 &amp;&amp; @20UKA00CR003_XD23 &amp;&amp; @20UKA00CR003_XN25==0 ) || (@20UKA00CR004_XN26 &amp;&amp; @20UKA00CR004_XD23 &amp;&amp; @20UKA00CR004_XN25==0 ) || (@20UKA04CR001_XN26 &amp;&amp; @20UKA04CR001_XD23 &amp;&amp; @20UKA04CR001_XN25==0 ) || (@20UKA04CR002_XN26 &amp;&amp; @20UKA04CR002_XD23 &amp;&amp; @20UKA04CR002_XN25==0 ) || (@20UKA04CR003_XN26 &amp;&amp; @20UKA04CR003_XD23 &amp;&amp; @20UKA04CR003_XN25==0 ) || (@20UKA04CR004_XN26 &amp;&amp; @20UKA04CR004_XD23 &amp;&amp; @20UKA04CR004_XN25==0 ) || (@20UKA08CR001_XN26 &amp;&amp; @20UKA08CR001_XD23 &amp;&amp; @20UKA08CR001_XN25==0 ) || (@20UKA08CR002_XN26 &amp;&amp; @20UKA08CR002_XD23 &amp;&amp; @20UKA08CR002_XN25==0 ) || (@20UKA08CR003_XN26 &amp;&amp; @20UKA08CR003_XD23 &amp;&amp; @20UKA08CR003_XN25==0 ) || (@20UKA12CR001_XN26 &amp;&amp; @20UKA12CR001_XD23 &amp;&amp; @20UKA12CR001_XN25==0 ) || (@20UKA12CR002_XN26 &amp;&amp; @20UKA12CR002_XD23 &amp;&amp; @20UKA12CR002_XN25==0 ) || (@20UKA12CR003_XN26 &amp;&amp; @20UKA12CR003_XD23 &amp;&amp; @20UKA12CR003_XN25==0 ) || (@20UKA16CR001_XN26 &amp;&amp; @20UKA16CR001_XD23 &amp;&amp; @20UKA16CR001_XN25==0 ) || (@20UKA16CR002_XN26 &amp;&amp; @20UKA16CR002_XD23 &amp;&amp; @20UKA16CR002_XN25==0 ) || (@20UKA93CR001_XN26 &amp;&amp; @20UKA93CR001_XD23 &amp;&amp; @20UKA93CR001_XN25==0 ) || (@20UKA93CR002_XN26 &amp;&amp; @20UKA93CR002_XD23 &amp;&amp; @20UKA93CR002_XN25==0 ) || (@20UKA93CR003_XN26 &amp;&amp; @20UKA93CR003_XD23 &amp;&amp; @20UKA93CR003_XN25==0 ) || (@20UKA97CR001_XN26 &amp;&amp; @20UKA97CR001_XD23 &amp;&amp; @20UKA97CR001_XN25==0 ) || (@20UKA97CR002_XN26 &amp;&amp; @20UKA97CR002_XD23 &amp;&amp; @20UKA97CR002_XN25==0 ) || (@20UKA97CR003_XN26 &amp;&amp; @20UKA97CR003_XD23 &amp;&amp; @20UKA97CR003_XN25==0 ) || (@20UKA99CR001_XN26 &amp;&amp; @20UKA99CR001_XD23 &amp;&amp; @20UKA99CR001_XN25==0 ) || (@20UKA99CR002_XN26 &amp;&amp; @20UKA99CR002_XD23 &amp;&amp; @20UKA99CR002_XN25==0 ) || (@20UKA99CR003_XN26 &amp;&amp; @20UKA99CR003_XD23 &amp;&amp; @20UKA99CR003_XN25==0 ) || (@20UKD00CR001_XN26 &amp;&amp; @20UKD00CR001_XD23 &amp;&amp; @20UKD00CR001_XN25==0 ) || (@20UKD00CR002_XN26 &amp;&amp; @20UKD00CR002_XD23 &amp;&amp; @20UKD00CR002_XN25==0 ) || (@20UKD04CR001_XN26 &amp;&amp; @20UKD04CR001_XD23 &amp;&amp; @20UKD04CR001_XN25==0 ) || (@20UKD04CR002_XN26 &amp;&amp; @20UKD04CR002_XD23 &amp;&amp; @20UKD04CR002_XN25==0 ) || (@20UKD12CR001_XN26 &amp;&amp; @20UKD12CR001_XD23 &amp;&amp; @20UKD12CR001_XN25==0 ) || (@20UKD12CR002_XN26 &amp;&amp; @20UKD12CR002_XD23 &amp;&amp; @20UKD12CR002_XN25==0 ) || (@20UKT00CR001_XN26 &amp;&amp; @20UKT00CR001_XD23 &amp;&amp; @20UKT00CR001_XN25==0 ) || (@20UKT00CR002_XN26 &amp;&amp; @20UKT00CR002_XD23 &amp;&amp; @20UKT00CR002_XN25==0 ) || (@20UKT00CR003_XN26 &amp;&amp; @20UKT00CR003_XD23 &amp;&amp; @20UKT00CR003_XN25==0 ) || (@20UKT00CR004_XN26 &amp;&amp; @20UKT00CR004_XD23 &amp;&amp; @20UKT00CR004_XN25==0 ) || (@20UKT08CR001_XN26 &amp;&amp; @20UKT08CR001_XD23 &amp;&amp; @20UKT08CR001_XN25==0 ) || (@20UKT08CR002_XN26 &amp;&amp; @20UKT08CR002_XD23 &amp;&amp; @20UKT08CR002_XN25==0 ) || (@20UKT08CR003_XN26 &amp;&amp; @20UKT08CR003_XD23 &amp;&amp; @20UKT08CR003_XN25==0 ) || (!@00UZF00CR001-B01_XD23 &amp;&amp; @00UZF00CR001-B01_XN25==0 ) || (!@02UYA00CR001-B01_XD23 &amp;&amp; @02UYA00CR001-B01_XN25==0 ) || (!@20UJA00CR003-B01_XD23 &amp;&amp; @20UJA00CR003-B01_XN25==0 ) || (!@20UJA14CR001-B01_XD23 &amp;&amp; @20UJA14CR001-B01_XN25==0 ) || (!@20UJA14CR002-B01_XD23 &amp;&amp; @20UJA14CR002-B01_XN25==0 ) || (!@20UJA14CR003-B01_XD23 &amp;&amp; @20UJA14CR003-B01_XN25==0 ) || (!@20UJA14CR004-B01_XD23 &amp;&amp; @20UJA14CR004-B01_XN25==0 ) || (!@20UJA26CR003-B01_XD23 &amp;&amp; @20UJA26CR003-B01_XN25==0 ) || (!@20UJA26CR004-B01_XD23 &amp;&amp; @20UJA26CR004-B01_XN25==0 ) || (!@20UJA26CR005-B01_XD23 &amp;&amp; @20UJA26CR005-B01_XN25==0 ) || (!@20UJA26CR006-B01_XD23 &amp;&amp; @20UJA26CR006-B01_XN25==0 ) || (!@20UJB91CR005-B01_XD23 &amp;&amp; @20UJB91CR005-B01_XN25==0 ) || (!@20UJB91CR006-B01_XD23 &amp;&amp; @20UJB91CR006-B01_XN25==0 ) || (!@20UJB91CR007-B01_XD23 &amp;&amp; @20UJB91CR007-B01_XN25==0 ) || (!@20UJB91CR008-B01_XD23 &amp;&amp; @20UJB91CR008-B01_XN25==0 ) || (!@20UKA00CR001_XD23 &amp;&amp; @20UKA00CR001_XN25==0 ) || (!@20UKA00CR002_XD23 &amp;&amp; @20UKA00CR002_XN25==0 ) || (!@20UKA00CR003_XD23 &amp;&amp; @20UKA00CR003_XN25==0 ) || (!@20UKA00CR004_XD23 &amp;&amp; @20UKA00CR004_XN25==0 ) || (!@20UKA04CR001_XD23 &amp;&amp; @20UKA04CR001_XN25==0 ) || (!@20UKA04CR002_XD23 &amp;&amp; @20UKA04CR002_XN25==0 ) || (!@20UKA04CR003_XD23 &amp;&amp; @20UKA04CR003_XN25==0 ) || (!@20UKA04CR004_XD23 &amp;&amp; @20UKA04CR004_XN25==0 ) || (!@20UKA08CR001_XD23 &amp;&amp; @20UKA08CR001_XN25==0 ) || (!@20UKA08CR002_XD23 &amp;&amp; @20UKA08CR002_XN25==0 ) || (!@20UKA08CR003_XD23 &amp;&amp; @20UKA08CR003_XN25==0 ) || (!@20UKA12CR001_XD23 &amp;&amp; @20UKA12CR001_XN25==0 ) || (!@20UKA12CR002_XD23 &amp;&amp; @20UKA12CR002_XN25==0 ) || (!@20UKA12CR003_XD23 &amp;&amp; @20UKA12CR003_XN25==0 ) || (!@20UKA16CR001_XD23 &amp;&amp; @20UKA16CR001_XN25==0 ) || (!@20UKA16CR002_XD23 &amp;&amp; @20UKA16CR002_XN25==0 ) || (!@20UKA93CR001_XD23 &amp;&amp; @20UKA93CR001_XN25==0 ) || (!@20UKA93CR002_XD23 &amp;&amp; @20UKA93CR002_XN25==0 ) || (!@20UKA93CR003_XD23 &amp;&amp; @20UKA93CR003_XN25==0 ) || (!@20UKA97CR001_XD23 &amp;&amp; @20UKA97CR001_XN25==0 ) || (!@20UKA97CR002_XD23 &amp;&amp; @20UKA97CR002_XN25==0 ) || (!@20UKA97CR003_XD23 &amp;&amp; @20UKA97CR003_XN25==0 ) || (!@20UKA99CR001_XD23 &amp;&amp; @20UKA99CR001_XN25==0 ) || (!@20UKA99CR002_XD23 &amp;&amp; @20UKA99CR002_XN25==0 ) || (!@20UKA99CR003_XD23 &amp;&amp; @20UKA99CR003_XN25==0 ) || (!@20UKD00CR001_XD23 &amp;&amp; @20UKD00CR001_XN25==0 ) || (!@20UKD00CR002_XD23 &amp;&amp; @20UKD00CR002_XN25==0 ) || (!@20UKD04CR001_XD23 &amp;&amp; @20UKD04CR001_XN25==0 ) || (!@20UKD04CR002_XD23 &amp;&amp; @20UKD04CR002_XN25==0 ) || (!@20UKD12CR001_XD23 &amp;&amp; @20UKD12CR001_XN25==0 ) || (!@20UKD12CR002_XD23 &amp;&amp; @20UKD12CR002_XN25==0 ) || (!@20UKT00CR001_XD23 &amp;&amp; @20UKT00CR001_XN25==0 ) || (!@20UKT00CR002_XD23 &amp;&amp; @20UKT00CR002_XN25==0 ) || (!@20UKT00CR003_XD23 &amp;&amp; @20UKT00CR003_XN25==0 ) || (!@20UKT00CR004_XD23 &amp;&amp; @20UKT00CR004_XN25==0 ) || (!@20UKT08CR001_XD23 &amp;&amp; @20UKT08CR001_XN25==0 ) || (!@20UKT08CR002_XD23 &amp;&amp; @20UKT08CR002_XN25==0 ) || (!@20UKT08CR003_XD23 &amp;&amp; @20UKT08CR003_XN25==0 )"
+           templatename="Z01FAIL" />
+        <nsstringconst
+           id="nsstringconst10000"
+           humname="ОБЩ_АВАРИЙНАЯ_УСТАВКА"
+           req="0"
+           desc="Обобщенное нарушение аварийных уставок в видеокадре"
+           name="(@00UZF00CR001-B01_XH45 &amp;&amp; @00UZF00CR001-B01_XD23 &amp;&amp; @00UZF00CR001-B01_XN25==0 &amp;&amp; @00UZF00CR001-B01_XN27==0 ) || (@02UYA00CR001-B01_XH45 &amp;&amp; @02UYA00CR001-B01_XD23 &amp;&amp; @02UYA00CR001-B01_XN25==0 &amp;&amp; @02UYA00CR001-B01_XN27==0 ) || (@20UJA00CR003-B01_XH45 &amp;&amp; @20UJA00CR003-B01_XD23 &amp;&amp; @20UJA00CR003-B01_XN25==0 ) || (@20UJA14CR001-B01_XH45 &amp;&amp; @20UJA14CR001-B01_XD23 &amp;&amp; @20UJA14CR001-B01_XN25==0 ) || (@20UJA14CR002-B01_XH45 &amp;&amp; @20UJA14CR002-B01_XD23 &amp;&amp; @20UJA14CR002-B01_XN25==0 ) || (@20UJA14CR003-B01_XH45 &amp;&amp; @20UJA14CR003-B01_XD23 &amp;&amp; @20UJA14CR003-B01_XN25==0 ) || (@20UJA14CR004-B01_XH45 &amp;&amp; @20UJA14CR004-B01_XD23 &amp;&amp; @20UJA14CR004-B01_XN25==0 ) || (@20UJA26CR003-B01_XH45 &amp;&amp; @20UJA26CR003-B01_XD23 &amp;&amp; @20UJA26CR003-B01_XN25==0 ) || (@20UJA26CR004-B01_XH45 &amp;&amp; @20UJA26CR004-B01_XD23 &amp;&amp; @20UJA26CR004-B01_XN25==0 ) || (@20UJA26CR005-B01_XH45 &amp;&amp; @20UJA26CR005-B01_XD23 &amp;&amp; @20UJA26CR005-B01_XN25==0 ) || (@20UJA26CR006-B01_XH45 &amp;&amp; @20UJA26CR006-B01_XD23 &amp;&amp; @20UJA26CR006-B01_XN25==0 ) || (@20UJB91CR005-B01_XH45 &amp;&amp; @20UJB91CR005-B01_XD23 &amp;&amp; @20UJB91CR005-B01_XN25==0 ) || (@20UJB91CR006-B01_XH45 &amp;&amp; @20UJB91CR006-B01_XD23 &amp;&amp; @20UJB91CR006-B01_XN25==0 ) || (@20UJB91CR007-B01_XH45 &amp;&amp; @20UJB91CR007-B01_XD23 &amp;&amp; @20UJB91CR007-B01_XN25==0 ) || (@20UJB91CR008-B01_XH45 &amp;&amp; @20UJB91CR008-B01_XD23 &amp;&amp; @20UJB91CR008-B01_XN25==0 ) || (@20UKA00CR001_XH45 &amp;&amp; @20UKA00CR001_XD23 &amp;&amp; @20UKA00CR001_XN25==0 &amp;&amp; @20UKA00CR001_XN27==0 ) || (@20UKA00CR002_XH45 &amp;&amp; @20UKA00CR002_XD23 &amp;&amp; @20UKA00CR002_XN25==0 &amp;&amp; @20UKA00CR002_XN27==0 ) || (@20UKA00CR003_XH45 &amp;&amp; @20UKA00CR003_XD23 &amp;&amp; @20UKA00CR003_XN25==0 &amp;&amp; @20UKA00CR003_XN27==0 ) || (@20UKA00CR004_XH45 &amp;&amp; @20UKA00CR004_XD23 &amp;&amp; @20UKA00CR004_XN25==0 &amp;&amp; @20UKA00CR004_XN27==0 ) || (@20UKA04CR001_XH45 &amp;&amp; @20UKA04CR001_XD23 &amp;&amp; @20UKA04CR001_XN25==0 &amp;&amp; @20UKA04CR001_XN27==0 ) || (@20UKA04CR002_XH45 &amp;&amp; @20UKA04CR002_XD23 &amp;&amp; @20UKA04CR002_XN25==0 &amp;&amp; @20UKA04CR002_XN27==0 ) || (@20UKA04CR003_XH45 &amp;&amp; @20UKA04CR003_XD23 &amp;&amp; @20UKA04CR003_XN25==0 &amp;&amp; @20UKA04CR003_XN27==0 ) || (@20UKA04CR004_XH45 &amp;&amp; @20UKA04CR004_XD23 &amp;&amp; @20UKA04CR004_XN25==0 &amp;&amp; @20UKA04CR004_XN27==0 ) || (@20UKA08CR001_XH45 &amp;&amp; @20UKA08CR001_XD23 &amp;&amp; @20UKA08CR001_XN25==0 &amp;&amp; @20UKA08CR001_XN27==0 ) || (@20UKA08CR002_XH45 &amp;&amp; @20UKA08CR002_XD23 &amp;&amp; @20UKA08CR002_XN25==0 &amp;&amp; @20UKA08CR002_XN27==0 ) || (@20UKA08CR003_XH45 &amp;&amp; @20UKA08CR003_XD23 &amp;&amp; @20UKA08CR003_XN25==0 &amp;&amp; @20UKA08CR003_XN27==0 ) || (@20UKA12CR001_XH45 &amp;&amp; @20UKA12CR001_XD23 &amp;&amp; @20UKA12CR001_XN25==0 &amp;&amp; @20UKA12CR001_XN27==0 ) || (@20UKA12CR002_XH45 &amp;&amp; @20UKA12CR002_XD23 &amp;&amp; @20UKA12CR002_XN25==0 &amp;&amp; @20UKA12CR002_XN27==0 ) || (@20UKA12CR003_XH45 &amp;&amp; @20UKA12CR003_XD23 &amp;&amp; @20UKA12CR003_XN25==0 &amp;&amp; @20UKA12CR003_XN27==0 ) || (@20UKA16CR001_XH45 &amp;&amp; @20UKA16CR001_XD23 &amp;&amp; @20UKA16CR001_XN25==0 &amp;&amp; @20UKA16CR001_XN27==0 ) || (@20UKA16CR002_XH45 &amp;&amp; @20UKA16CR002_XD23 &amp;&amp; @20UKA16CR002_XN25==0 &amp;&amp; @20UKA16CR002_XN27==0 ) || (@20UKA93CR001_XH45 &amp;&amp; @20UKA93CR001_XD23 &amp;&amp; @20UKA93CR001_XN25==0 &amp;&amp; @20UKA93CR001_XN27==0 ) || (@20UKA93CR002_XH45 &amp;&amp; @20UKA93CR002_XD23 &amp;&amp; @20UKA93CR002_XN25==0 &amp;&amp; @20UKA93CR002_XN27==0 ) || (@20UKA93CR003_XH45 &amp;&amp; @20UKA93CR003_XD23 &amp;&amp; @20UKA93CR003_XN25==0 &amp;&amp; @20UKA93CR003_XN27==0 ) || (@20UKA97CR001_XH45 &amp;&amp; @20UKA97CR001_XD23 &amp;&amp; @20UKA97CR001_XN25==0 &amp;&amp; @20UKA97CR001_XN27==0 ) || (@20UKA97CR002_XH45 &amp;&amp; @20UKA97CR002_XD23 &amp;&amp; @20UKA97CR002_XN25==0 &amp;&amp; @20UKA97CR002_XN27==0 ) || (@20UKA97CR003_XH45 &amp;&amp; @20UKA97CR003_XD23 &amp;&amp; @20UKA97CR003_XN25==0 &amp;&amp; @20UKA97CR003_XN27==0 ) || (@20UKA99CR001_XH45 &amp;&amp; @20UKA99CR001_XD23 &amp;&amp; @20UKA99CR001_XN25==0 &amp;&amp; @20UKA99CR001_XN27==0 ) || (@20UKA99CR002_XH45 &amp;&amp; @20UKA99CR002_XD23 &amp;&amp; @20UKA99CR002_XN25==0 &amp;&amp; @20UKA99CR002_XN27==0 ) || (@20UKA99CR003_XH45 &amp;&amp; @20UKA99CR003_XD23 &amp;&amp; @20UKA99CR003_XN25==0 &amp;&amp; @20UKA99CR003_XN27==0 ) || (@20UKD00CR001_XH45 &amp;&amp; @20UKD00CR001_XD23 &amp;&amp; @20UKD00CR001_XN25==0 &amp;&amp; @20UKD00CR001_XN27==0 ) || (@20UKD00CR002_XH45 &amp;&amp; @20UKD00CR002_XD23 &amp;&amp; @20UKD00CR002_XN25==0 &amp;&amp; @20UKD00CR002_XN27==0 ) || (@20UKD04CR001_XH45 &amp;&amp; @20UKD04CR001_XD23 &amp;&amp; @20UKD04CR001_XN25==0 &amp;&amp; @20UKD04CR001_XN27==0 ) || (@20UKD04CR002_XH45 &amp;&amp; @20UKD04CR002_XD23 &amp;&amp; @20UKD04CR002_XN25==0 &amp;&amp; @20UKD04CR002_XN27==0 ) || (@20UKD12CR001_XH45 &amp;&amp; @20UKD12CR001_XD23 &amp;&amp; @20UKD12CR001_XN25==0 &amp;&amp; @20UKD12CR001_XN27==0 ) || (@20UKD12CR002_XH45 &amp;&amp; @20UKD12CR002_XD23 &amp;&amp; @20UKD12CR002_XN25==0 &amp;&amp; @20UKD12CR002_XN27==0 ) || (@20UKT00CR001_XH45 &amp;&amp; @20UKT00CR001_XD23 &amp;&amp; @20UKT00CR001_XN25==0 &amp;&amp; @20UKT00CR001_XN27==0 ) || (@20UKT00CR002_XH45 &amp;&amp; @20UKT00CR002_XD23 &amp;&amp; @20UKT00CR002_XN25==0 &amp;&amp; @20UKT00CR002_XN27==0 ) || (@20UKT00CR003_XH45 &amp;&amp; @20UKT00CR003_XD23 &amp;&amp; @20UKT00CR003_XN25==0 &amp;&amp; @20UKT00CR003_XN27==0 ) || (@20UKT00CR004_XH45 &amp;&amp; @20UKT00CR004_XD23 &amp;&amp; @20UKT00CR004_XN25==0 &amp;&amp; @20UKT00CR004_XN27==0 ) || (@20UKT08CR001_XH45 &amp;&amp; @20UKT08CR001_XD23 &amp;&amp; @20UKT08CR001_XN25==0 &amp;&amp; @20UKT08CR001_XN27==0 ) || (@20UKT08CR002_XH45 &amp;&amp; @20UKT08CR002_XD23 &amp;&amp; @20UKT08CR002_XN25==0 &amp;&amp; @20UKT08CR002_XN27==0 ) || (@20UKT08CR003_XH45 &amp;&amp; @20UKT08CR003_XD23 &amp;&amp; @20UKT08CR003_XN25==0 &amp;&amp; @20UKT08CR003_XN27==0 )"
+           templatename="Z02EMERG" />
+        <nsstringconst
+           id="nsstringconst10002"
+           humname="ОБЩ_КОНТРОЛЬНАЯ_УСТАВКА"
+           req="0"
+           desc="Обобщенное нарушение контрольных уровней в видеокадре"
+           name="(@00UZF00CR001-B01_XH43 &amp;&amp; @00UZF00CR001-B01_XD23 &amp;&amp; @00UZF00CR001-B01_XN25==0 &amp;&amp; @00UZF00CR001-B01_XN27==0 ) || (@02UYA00CR001-B01_XH43 &amp;&amp; @02UYA00CR001-B01_XD23 &amp;&amp; @02UYA00CR001-B01_XN25==0 &amp;&amp; @02UYA00CR001-B01_XN27==0 ) || (@20UJA00CR003-B01_XH43 &amp;&amp; @20UJA00CR003-B01_XD23 &amp;&amp; @20UJA00CR003-B01_XN25==0 ) || (@20UJA14CR001-B01_XH43 &amp;&amp; @20UJA14CR001-B01_XD23 &amp;&amp; @20UJA14CR001-B01_XN25==0 ) || (@20UJA14CR002-B01_XH43 &amp;&amp; @20UJA14CR002-B01_XD23 &amp;&amp; @20UJA14CR002-B01_XN25==0 ) || (@20UJA14CR003-B01_XH43 &amp;&amp; @20UJA14CR003-B01_XD23 &amp;&amp; @20UJA14CR003-B01_XN25==0 ) || (@20UJA14CR004-B01_XH43 &amp;&amp; @20UJA14CR004-B01_XD23 &amp;&amp; @20UJA14CR004-B01_XN25==0 ) || (@20UJA26CR003-B01_XH43 &amp;&amp; @20UJA26CR003-B01_XD23 &amp;&amp; @20UJA26CR003-B01_XN25==0 ) || (@20UJA26CR004-B01_XH43 &amp;&amp; @20UJA26CR004-B01_XD23 &amp;&amp; @20UJA26CR004-B01_XN25==0 ) || (@20UJA26CR005-B01_XH43 &amp;&amp; @20UJA26CR005-B01_XD23 &amp;&amp; @20UJA26CR005-B01_XN25==0 ) || (@20UJA26CR006-B01_XH43 &amp;&amp; @20UJA26CR006-B01_XD23 &amp;&amp; @20UJA26CR006-B01_XN25==0 ) || (@20UJB91CR005-B01_XH43 &amp;&amp; @20UJB91CR005-B01_XD23 &amp;&amp; @20UJB91CR005-B01_XN25==0 ) || (@20UJB91CR006-B01_XH43 &amp;&amp; @20UJB91CR006-B01_XD23 &amp;&amp; @20UJB91CR006-B01_XN25==0 ) || (@20UJB91CR007-B01_XH43 &amp;&amp; @20UJB91CR007-B01_XD23 &amp;&amp; @20UJB91CR007-B01_XN25==0 ) || (@20UJB91CR008-B01_XH43 &amp;&amp; @20UJB91CR008-B01_XD23 &amp;&amp; @20UJB91CR008-B01_XN25==0 ) || (@20UKA00CR001_XH43 &amp;&amp; @20UKA00CR001_XD23 &amp;&amp; @20UKA00CR001_XN25==0 &amp;&amp; @20UKA00CR001_XN27==0 ) || (@20UKA00CR002_XH43 &amp;&amp; @20UKA00CR002_XD23 &amp;&amp; @20UKA00CR002_XN25==0 &amp;&amp; @20UKA00CR002_XN27==0 ) || (@20UKA00CR003_XH43 &amp;&amp; @20UKA00CR003_XD23 &amp;&amp; @20UKA00CR003_XN25==0 &amp;&amp; @20UKA00CR003_XN27==0 ) || (@20UKA00CR004_XH43 &amp;&amp; @20UKA00CR004_XD23 &amp;&amp; @20UKA00CR004_XN25==0 &amp;&amp; @20UKA00CR004_XN27==0 ) || (@20UKA04CR001_XH43 &amp;&amp; @20UKA04CR001_XD23 &amp;&amp; @20UKA04CR001_XN25==0 &amp;&amp; @20UKA04CR001_XN27==0 ) || (@20UKA04CR002_XH43 &amp;&amp; @20UKA04CR002_XD23 &amp;&amp; @20UKA04CR002_XN25==0 &amp;&amp; @20UKA04CR002_XN27==0 ) || (@20UKA04CR003_XH43 &amp;&amp; @20UKA04CR003_XD23 &amp;&amp; @20UKA04CR003_XN25==0 &amp;&amp; @20UKA04CR003_XN27==0 ) || (@20UKA04CR004_XH43 &amp;&amp; @20UKA04CR004_XD23 &amp;&amp; @20UKA04CR004_XN25==0 &amp;&amp; @20UKA04CR004_XN27==0 ) || (@20UKA08CR001_XH43 &amp;&amp; @20UKA08CR001_XD23 &amp;&amp; @20UKA08CR001_XN25==0 &amp;&amp; @20UKA08CR001_XN27==0 ) || (@20UKA08CR002_XH43 &amp;&amp; @20UKA08CR002_XD23 &amp;&amp; @20UKA08CR002_XN25==0 &amp;&amp; @20UKA08CR002_XN27==0 ) || (@20UKA08CR003_XH43 &amp;&amp; @20UKA08CR003_XD23 &amp;&amp; @20UKA08CR003_XN25==0 &amp;&amp; @20UKA08CR003_XN27==0 ) || (@20UKA12CR001_XH43 &amp;&amp; @20UKA12CR001_XD23 &amp;&amp; @20UKA12CR001_XN25==0 &amp;&amp; @20UKA12CR001_XN27==0 ) || (@20UKA12CR002_XH43 &amp;&amp; @20UKA12CR002_XD23 &amp;&amp; @20UKA12CR002_XN25==0 &amp;&amp; @20UKA12CR002_XN27==0 ) || (@20UKA12CR003_XH43 &amp;&amp; @20UKA12CR003_XD23 &amp;&amp; @20UKA12CR003_XN25==0 &amp;&amp; @20UKA12CR003_XN27==0 ) || (@20UKA16CR001_XH43 &amp;&amp; @20UKA16CR001_XD23 &amp;&amp; @20UKA16CR001_XN25==0 &amp;&amp; @20UKA16CR001_XN27==0 ) || (@20UKA16CR002_XH43 &amp;&amp; @20UKA16CR002_XD23 &amp;&amp; @20UKA16CR002_XN25==0 &amp;&amp; @20UKA16CR002_XN27==0 ) || (@20UKA93CR001_XH43 &amp;&amp; @20UKA93CR001_XD23 &amp;&amp; @20UKA93CR001_XN25==0 &amp;&amp; @20UKA93CR001_XN27==0 ) || (@20UKA93CR002_XH43 &amp;&amp; @20UKA93CR002_XD23 &amp;&amp; @20UKA93CR002_XN25==0 &amp;&amp; @20UKA93CR002_XN27==0 ) || (@20UKA93CR003_XH43 &amp;&amp; @20UKA93CR003_XD23 &amp;&amp; @20UKA93CR003_XN25==0 &amp;&amp; @20UKA93CR003_XN27==0 ) || (@20UKA97CR001_XH43 &amp;&amp; @20UKA97CR001_XD23 &amp;&amp; @20UKA97CR001_XN25==0 &amp;&amp; @20UKA97CR001_XN27==0 ) || (@20UKA97CR002_XH43 &amp;&amp; @20UKA97CR002_XD23 &amp;&amp; @20UKA97CR002_XN25==0 &amp;&amp; @20UKA97CR002_XN27==0 ) || (@20UKA97CR003_XH43 &amp;&amp; @20UKA97CR003_XD23 &amp;&amp; @20UKA97CR003_XN25==0 &amp;&amp; @20UKA97CR003_XN27==0 ) || (@20UKA99CR001_XH43 &amp;&amp; @20UKA99CR001_XD23 &amp;&amp; @20UKA99CR001_XN25==0 &amp;&amp; @20UKA99CR001_XN27==0 ) || (@20UKA99CR002_XH43 &amp;&amp; @20UKA99CR002_XD23 &amp;&amp; @20UKA99CR002_XN25==0 &amp;&amp; @20UKA99CR002_XN27==0 ) || (@20UKA99CR003_XH43 &amp;&amp; @20UKA99CR003_XD23 &amp;&amp; @20UKA99CR003_XN25==0 &amp;&amp; @20UKA99CR003_XN27==0 ) || (@20UKD00CR001_XH43 &amp;&amp; @20UKD00CR001_XD23 &amp;&amp; @20UKD00CR001_XN25==0 &amp;&amp; @20UKD00CR001_XN27==0 ) || (@20UKD00CR002_XH43 &amp;&amp; @20UKD00CR002_XD23 &amp;&amp; @20UKD00CR002_XN25==0 &amp;&amp; @20UKD00CR002_XN27==0 ) || (@20UKD04CR001_XH43 &amp;&amp; @20UKD04CR001_XD23 &amp;&amp; @20UKD04CR001_XN25==0 &amp;&amp; @20UKD04CR001_XN27==0 ) || (@20UKD04CR002_XH43 &amp;&amp; @20UKD04CR002_XD23 &amp;&amp; @20UKD04CR002_XN25==0 &amp;&amp; @20UKD04CR002_XN27==0 ) || (@20UKD12CR001_XH43 &amp;&amp; @20UKD12CR001_XD23 &amp;&amp; @20UKD12CR001_XN25==0 &amp;&amp; @20UKD12CR001_XN27==0 ) || (@20UKD12CR002_XH43 &amp;&amp; @20UKD12CR002_XD23 &amp;&amp; @20UKD12CR002_XN25==0 &amp;&amp; @20UKD12CR002_XN27==0 ) || (@20UKT00CR001_XH43 &amp;&amp; @20UKT00CR001_XD23 &amp;&amp; @20UKT00CR001_XN25==0 &amp;&amp; @20UKT00CR001_XN27==0 ) || (@20UKT00CR002_XH43 &amp;&amp; @20UKT00CR002_XD23 &amp;&amp; @20UKT00CR002_XN25==0 &amp;&amp; @20UKT00CR002_XN27==0 ) || (@20UKT00CR003_XH43 &amp;&amp; @20UKT00CR003_XD23 &amp;&amp; @20UKT00CR003_XN25==0 &amp;&amp; @20UKT00CR003_XN27==0 ) || (@20UKT00CR004_XH43 &amp;&amp; @20UKT00CR004_XD23 &amp;&amp; @20UKT00CR004_XN25==0 &amp;&amp; @20UKT00CR004_XN27==0 ) || (@20UKT08CR001_XH43 &amp;&amp; @20UKT08CR001_XD23 &amp;&amp; @20UKT08CR001_XN25==0 &amp;&amp; @20UKT08CR001_XN27==0 ) || (@20UKT08CR002_XH43 &amp;&amp; @20UKT08CR002_XD23 &amp;&amp; @20UKT08CR002_XN25==0 &amp;&amp; @20UKT08CR002_XN27==0 ) || (@20UKT08CR003_XH43 &amp;&amp; @20UKT08CR003_XD23 &amp;&amp; @20UKT08CR003_XN25==0 &amp;&amp; @20UKT08CR003_XN27==0 )"
+           templatename="Z03WARN" />
+        <nsstringconst
+           id="nsstringconst10004"
+           humname="ОБЩ_УСТОЙЧИВЫЙ_РОСТ"
+           req="0"
+           desc="Обобщенный признак устойчивого роста значения параметра в видеокадре"
+           name=""
+           templatename="Z04TRENDUP" />
+      </signals>
+      <path
+         id="path10006"
+         style="fill:#e6e6e6;stroke:#000000;stroke-width:1.00039804px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 1,1 1,27 96,27 96,1 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path10008"
+         style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1.00039804px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4,4 24,4 24,24 4,24 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path10010"
+         style="fill:#ff0000;stroke:#000000;stroke-width:1.00039804px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27,4 20,0 0,20 -20,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path10012"
+         style="fill:#ffff00;stroke:#000000;stroke-width:1.00039804px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 50,4 20,0 0,20 -20,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path10014"
+         style="fill:#00ffff;stroke:#000000;stroke-width:1.00039804px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 73,4 20,0 0,20 -20,0 z"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text10016"
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="8"
+         y="19"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan10018"
+           sodipodi:role="line"
+           x="8"
+           y="19">Н</tspan></text>
+      <text
+         id="text10020"
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="32"
+         y="19"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan26162-3-4-6-2-1-9-29-5"
+           x="32"
+           y="19">А</tspan></text>
+      <text
+         id="text10023"
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="54"
+         y="19"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan26166-9-9-5-6-3-1-22-0"
+           x="54"
+           y="19">П</tspan></text>
+      <text
+         id="text10026"
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="78"
+         y="19"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan26170-9-8-5-1-7-7-46-3"
+           x="78"
+           y="19">Р</tspan></text>
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     id="info_layer"
+     inkscape:groupmode="layer"
+     inkscape:label="Слой информационный">
+    <text
+       sodipodi:linespacing="100%"
+       id="text22902-7-8-1-8-0-9-2"
+       y="201.60228"
+       x="25.022099"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan24116-90-3-1-6"
+         y="201.60228"
+         x="25.022099"
+         sodipodi:role="line">20CFL30EJ118</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text22902-7-8-1-8-0-9-2-9"
+       y="248.51398"
+       x="25.497398"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan24116-90-3-1-6-7"
+         y="248.51398"
+         x="25.497398"
+         sodipodi:role="line">20CFL30EJ119</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text22902-7-8-1-8-0-9-2-9-7"
+       y="293.42557"
+       x="25"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan24116-90-3-1-6-7-8"
+         y="293.42557"
+         x="25"
+         sodipodi:role="line">20CFL30EJ120</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text22902-7-8-1-8-0-9-2-9-8"
+       y="385.2489"
+       x="25"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan24116-90-3-1-6-7-2"
+         y="385.2489"
+         x="25"
+         sodipodi:role="line">20CFL30EJ122</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text22902-7-8-1-8-0-9-2-9-2"
+       y="432.16055"
+       x="25"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan24116-90-3-1-6-7-7"
+         y="432.16055"
+         x="25"
+         sodipodi:role="line">20CFL30EJ123</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text22902-7-8-1-8-0-9-2-9-1-2"
+       y="479.0722"
+       x="25"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan24116-90-3-1-6-7-6-0"
+         y="479.0722"
+         x="25"
+         sodipodi:role="line">20CFL30EJ124</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text22902-7-8-1-8-0-9-2-9-8-2"
+       y="523.98389"
+       x="25"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan24116-90-3-1-6-7-2-7"
+         y="523.98389"
+         x="25"
+         sodipodi:role="line">20CFL30EJ125</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text22902-7-8-1-8-0-9-7"
+       y="26.000015"
+       x="25"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan24116-90-3-1-5"
+         y="26.000015"
+         x="25"
+         sodipodi:role="line">20CFL00EJ101</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text22902-7-8-1-8-0-9-07-9-8"
+       y="109"
+       x="25"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan24116-90-3-1-0-9-9"
+         y="109"
+         x="25"
+         sodipodi:role="line">20CFL30EJ101</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text22902-7-8-1-8-0-9-2-9-1"
+       y="338.33725"
+       x="25"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         id="tspan24116-90-3-1-6-7-6"
+         y="338.33725"
+         x="25"
+         sodipodi:role="line">20CFL30EJ121</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="25.513237"
+       y="569.44659"
+       id="text3360"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="25.513237"
+         y="569.44659"
+         id="tspan3362">20CFL30EJ127</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="25.513237"
+       y="616.35828"
+       id="text3364"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="25.513237"
+         y="616.35828"
+         id="tspan3366">20CFL30EJ129</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="25.150757"
+       y="661.37122"
+       id="text3364-9"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="25.150757"
+         y="661.37122"
+         id="tspan3366-5">20CFL30EJ130</tspan></text>
+  </g>
+</svg>
