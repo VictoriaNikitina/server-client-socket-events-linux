@@ -8,8 +8,7 @@ const app = express();
 const http = require('http').Server(app);
 const wsServer   = require('socket.io')(http);
 
-const HOST = '172.23.162.121';
-//const HOST = 'localhost';
+const HOST = 'localhost';
 const PORT = 3000;
 app.use(cors());
 
