@@ -17,9 +17,9 @@
    //ошибки
    var message ='';
    //сокет
-   var socket = io('ws://172.23.162.121:3000', {'reconnection': true,'reconnectionDelay': 2000,'maxReconnectionAttempts':Infinity});
+   var socket = io('ws://localhost:3000', {'reconnection': true,'reconnectionDelay': 2000,'maxReconnectionAttempts':Infinity});
    //путь к svg изображениям
-   var URL_path = 'http://172.23.162.121:3000/' ;
+   var URL_path = 'http://localhost:3000/' ;
    var all_tb = '';
    var status_text = document.getElementsByClassName('status_text');
    window.onload=()=> 
